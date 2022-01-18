@@ -1,0 +1,7 @@
+{
+  "_comment": "Dependencies for the CPBC enquiry system. Pinned 2022.",
+  "require": {
+    "php": ">=7.2",
+    "phpmailer/phpmailer": "5.2.22"
+  }
+}

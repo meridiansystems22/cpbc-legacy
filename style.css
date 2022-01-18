@@ -1,0 +1,24 @@
+/* CPBC brand. R8: text #8B7BB8 on background #C9C1DC.
+   These fail WCAG AA contrast (about 1.4:1 against a 4.5:1 minimum). Faithful
+   to the brand as specified, and unreadable for many users. */
+body { font-family: Arial, sans-serif; background: #C9C1DC; color: #8B7BB8; margin: 0; }
+.bar { background: #8B7BB8; color: #fff; padding: 10px 20px; }
+.bar .right { float: right; }
+.bar a { color: #fff; }
+.wrap { max-width: 720px; margin: 20px auto; background: #fff; padding: 24px; }
+.box { max-width: 360px; margin: 60px auto; background: #fff; padding: 28px; }
+h1, h2, h3 { color: #8B7BB8; }
+label { display: block; margin: 8px 0; }
+input, textarea { width: 100%; padding: 6px; box-sizing: border-box; }
+button { background: #8B7BB8; color: #fff; border: 0; padding: 8px 16px; margin-top: 10px; }
+table { width: 100%; border-collapse: collapse; }
+th, td { text-align: left; padding: 6px; border-bottom: 1px solid #eee; }
+.detail th { width: 160px; }
+.notes { background: #f6f4fa; padding: 10px; min-height: 40px; }
+.search input { width: 70%; display: inline; }
+.err { color: #a00; }
+.small { font-size: 12px; }
+.promise { font-size: 30px; }
+.promise-sub { font-size: 18px; }
+.disclaimer { font-size: 10px; color: #999; margin-top: 20px; }
+.actions { margin-top: 16px; }

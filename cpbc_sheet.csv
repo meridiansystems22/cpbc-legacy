@@ -1,0 +1,602 @@
+id,name,nric,dob,address,phone,email,employment,income,referral_source,area_of_law,status,notes
+1001,Suresh Kumar,T5145061H,1970-12-04,Blk 477 Woodlands Dr 50 #17-091,84160583,suresh.kumar@example.com,Retired,"$3,200",Walk-in,Tenancy,Closed,"Eviction notice, 1 week given. Family with young children."
+1002,Iskandar Salleh,S4940326A,1996-10-04,Blk 150 Ang Mo Kio Ave 3 #16-133,81160645,iskandar.salleh@example.com,Student,2600,Walk-in,Employment,Closed,"Injured at work, no MC paid. Small firm, no HR."
+1003,Jia Hao Lee,T5972979I,1979-03-21,Blk 234 Jurong West St 52 #09-098,83658781,jia.lee@example.com,Part-time,"$3,200",,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1004,Iskandar Salleh,S1108436G,1981-10-16,Blk 180 Hougang Ave 8 #04-065,84831854,iskandar.salleh@example.com,Retired,"$3,200",Previous client,Wills and probate,Closed,"Father passed, no will, HDB flat, siblings disagree."
+1005,Pei Shan Sim,T3002458A,1963-02-12,Blk 462 Tampines St 41 #18-300,83354635,pei.sim@example.com,Student,0,Previous client,Neighbour disputes,Closed,Dispute over shared wall renovation.
+1006,Suresh Kumar,S7145211C,1989-06-24,Blk 133 Woodlands Dr 50 #12-181,82424835,suresh.kumar@example.com,Part-time,1500,Friend,Unassigned,Open,"Walk-in, complex family matter, referred elsewhere?"
+1007,Chin Hock Teo,T6909111I,1971-07-24,Blk 595 Clementi Ave 4 #16-237,82405632,chin.teo@example.com,Student,about 2k,Friend,Wills and probate,Open,"Executor of aunt's estate, unsure of duties."
+1008,Kok Wai Wong,T9740542B,6-Sep-67,Blk 351 Toa Payoh Lor 1 #16-256,85051424,kok.wong@example.com,Unemployed,2600,Google,Employment,Open,Salary unpaid for two months. Employer not responding.
+1009,Anand Rajan,S2275014I,1962-08-16,Blk 220 Yishun Ring Rd #14-267,89285853,anand.rajan@example.com,Part-time,3800,Facebook,Wills and probate,Closed,"Executor of aunt's estate, unsure of duties."
+1010,Meena Subramaniam,T9549026C,25-Jan-67,Blk 244 Woodlands Dr 50 #06-025,82934494,meena.subramaniam@example.com,Retired,4200,,Tenancy,Closed,"Rental arrears dispute, landlord changed the lock."
+1011,Anand Rajan,T2078023F,,Blk 513 Jurong West St 52 #07-202,84756801,anand.rajan@example.com,Employed,3200,MP meet-the-people,Employment,Open,Salary unpaid for two months. Employer not responding.
+1012,Anand Rajan,T7531133E,,Blk 329 Dover Rd #02-179,89467783,anand.rajan@example.com,Employed,3000,Previous client,Small claims,Open,"Online purchase never delivered, seller unreachable."
+1013,Yong Sheng Chua,T0285272B,27/9/2001,Blk 451 Clementi Ave 4 #20-045,84714713,yong.chua@example.com,Retired,"$2,500",Google,Wills and probate,Closed,Needs LPA for elderly mother with dementia.
+1014,Ravi Das,T2884973E,1989-02-17,Blk 387 Bishan St 12 #19-023,89657341,ravi.das@example.com,Retired,"$3,200",Walk-in,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1015,Hui Ling Lim,T4377256C,1988-06-04,Blk 633 Bishan St 12 #10-067,81382284,hui.lim@example.com,Employed,2200,Previous client,Employment,Closed,Dismissed after raising a safety complaint. Has messages.
+1016,Kok Wai Wong,S7918943B,13/1/1982,Blk 543 Jurong West St 52 #07-276,84427018,kok.wong@example.com,Part-time,"$1,800",MP meet-the-people,Neighbour disputes,Closed,"Smoking at corridor, children asthmatic."
+1017,Nurul Ibrahim,S5953331I,1970-03-24,Blk 398 Telok Blangah Cres #15-216,83113984,nurul.ibrahim@example.com,Self-employed,0,Facebook,Tenancy,Open,Landlord withholding deposit. Verbal tenancy only.
+1018,Zhi Hao Koh,T8317100C,19/9/1994,Blk 195 Commonwealth Dr #05-105,83893929,zhi.koh@example.com,Self-employed,,Google,Wills and probate,Open,"Father passed, no will, HDB flat, siblings disagree."
+1019,Nurul Ibrahim,T6768563A,21/1/1978,Blk 206 Commonwealth Dr #15-233,87032551,nurul.ibrahim@example.com,Part-time,2200,Google,Unassigned,Closed,"Immigration question - out of scope, note for records."
+1020,Marcus DCruz,T9938954F,24-Dec-62,Blk 416 Commonwealth Dr #12-276,87205356,marcus.dcruz@example.com,Retired,n/a,,Neighbour disputes,Closed,"Smoking at corridor, children asthmatic."
+1021,Xin Yi Yeo,S5903445H,1997-07-19,Blk 79 Yishun Ring Rd #18-255,84577216,xin.yeo@example.com,Part-time,3200,Google,Neighbour disputes,Closed,"Noise from upstairs unit, nightly, HDB."
+1022,Aishah Rahman,S3601444E,1990-09-17,Blk 534 Jurong West St 52 #05-228,82278356,aishah.rahman@example.com,Student,"$1,800",,Neighbour disputes,Closed,Dispute over shared wall renovation.
+1023,Mei Ling Goh,T8990676G,1988-07-20,Blk 544 Dover Rd #17-139,85756818,mei.goh@example.com,Part-time,unknown,Community centre,Tenancy,Open,Landlord withholding deposit. Verbal tenancy only.
+1024,Jia Hao Lee,T0560951H,1982-12-16,Blk 250 Bishan St 12 #18-051,88857615,jia.lee@example.com,Self-employed,,,Consumer debt,Closed,"Credit card debt, harassment calls to workplace."
+1025,Shu Fen Ng,S0582157I,15/7/1997,Blk 655 Jurong West St 52 #15-187,89904780,shu.ng@example.com,Self-employed,,Google,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1026,Shu Fen Ng,T4499934H,,Blk 201 Toa Payoh Lor 1 #03-032,81158977,shu.ng@example.com,Unemployed,0,,Consumer debt,Closed,=1+1
+1027,Nurul Ibrahim,S8357753F,1976-08-24,Blk 77 Woodlands Dr 50 #05-230,84576309,nurul.ibrahim@example.com,Retired,2600,,Consumer debt,Closed,"Renovation contractor took deposit, work not done."
+1028,Siti Hassan,T8265917E,1960-09-03,Blk 582 Clementi Ave 4 #16-154,81155904,siti.hassan@example.com,Employed,1500,Facebook,Employment,Open,Claims constructive dismissal. Wants to know options.
+1029,Kok Wai Wong,T5157994C,1988-05-15,Blk 410 Hougang Ave 8 #18-128,82414103,kok.wong@example.com,Unemployed,about 2k,Facebook,Tenancy,Closed,"Rental arrears dispute, landlord changed the lock."
+1030,Iskandar Salleh,T8299221C,8/1/1973,Blk 558 Commonwealth Dr #20-152,81374806,iskandar.salleh@example.com,Part-time,n/a,Facebook,Neighbour disputes,Closed,"Noise from upstairs unit, nightly, HDB."
+1031,Suresh Kumar,T1510216H,16-Apr-00,Blk 535 Tampines St 41 #16-202,86879414,suresh.kumar@example.com,Unemployed,unknown,Google,Neighbour disputes,Closed,"Smoking at corridor, children asthmatic."
+1032,Ravi Das,T5061780B,1-Dec-78,Blk 432 Yishun Ring Rd #06-126,83722157,ravi.das@example.com,Part-time,1800,Friend,Neighbour disputes,Closed,"Shared corridor blocked with items, fire hazard."
+1033,Farah Karim,T4142207J,1992-08-26,Blk 112 Ang Mo Kio Ave 3 #07-184,84646768,farah.karim@example.com,Student,3800,Friend,Consumer debt,Closed,"Guarantor for a friend's loan, friend defaulted."
+1034,Danial Latiff,T8874765B,1960-08-28,Blk 51 Ang Mo Kio Ave 3 #06-198,89851427,danial.latiff@example.com,Student,about 2k,Community centre,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1035,Li Ying Ong,S6926252F,21/3/1988,Blk 635 Dover Rd #18-274,81888207,li.ong@example.com,Self-employed,"$1,800",MP meet-the-people,Wills and probate,Open,"Father passed, no will, HDB flat, siblings disagree."
+1036,Kavitha Menon,S7719884J,7-Jul-67,Blk 94 Woodlands Dr 50 #16-107,81624480,kavitha.menon@example.com,Student,3800,Family Service Centre,Wills and probate,Closed,Needs LPA for elderly mother with dementia.
+1037,Suresh Kumar,S8471512Z,22/7/1997,Blk 125 Toa Payoh Lor 1 #16-007,87327136,suresh.kumar@example.com,Part-time,~3000,Previous client,Tenancy,Open,"Rental arrears dispute, landlord changed the lock."
+1038,Mei Ling Goh,S4684568Z,1971-04-07,Blk 113 Tampines St 41 #11-141,88882254,mei.goh@example.com,Part-time,"$2,500",Walk-in,Neighbour disputes,Open,Dispute over shared wall renovation.
+1039,Zhi Hao Koh,S2360791Z,,Blk 445 Yishun Ring Rd #04-175,88164084,zhi.koh@example.com,Student,2200,,Small claims,Closed,"Deposit for wedding photography, vendor closed down."
+1040,Iskandar Salleh,S6953980F,1976-04-11,Blk 452 Telok Blangah Cres #19-194,84437363,iskandar.salleh@example.com,Student,2600,Previous client,Consumer debt,Open,"Loan from licensed moneylender, disputes amount owed."
+1041,Mei Ling Goh,S5988293B,,Blk 581 Bishan St 12 #08-043,83286323,mei.goh@example.com,Self-employed,3200,Family Service Centre,Tenancy,Closed,"Client seemed evasive, possibly not telling us everything. Husband is the one who called - check for conflict."
+1042,Iskandar Salleh,S3988818G,1965-12-27,Blk 150 Telok Blangah Cres #02-148,87100763,iskandar.salleh@example.com,Self-employed,unknown,MP meet-the-people,Tenancy,Open,Ex-employer is [named firm]. One of our volunteers works there - do not assign to them.
+1043,[withheld] matter 1043,T4120905G,5/1/1984,Blk 122 Jurong West St 52 #14-089,86641208,vijay.iyer@example.com,Student,2200,,Tenancy,Open,SENSITIVE: client is a relative of a Centre volunteer. Conflict flagged. Restrict access.
+1044,[withheld] matter 1044,T2118073Z,16-May-03,Blk 475 Hougang Ave 8 #15-223,82969126,meena.subramaniam@example.com,Student,4200,,Tenancy,Open,SENSITIVE: client is a relative of a Centre volunteer. Conflict flagged. Restrict access.
+1045,[withheld] matter 1045,S3850400J,1970-02-28,Blk 515 Yishun Ring Rd #03-244,82767867,aishah.rahman@example.com,Student,,Friend,Tenancy,Open,SENSITIVE: client is a relative of a Centre volunteer. Conflict flagged. Restrict access.
+1046,[withheld] matter 1046,S7916999G,4-Mar-88,Blk 590 Clementi Ave 4 #02-152,85092476,suresh.kumar@example.com,Part-time,3000,Facebook,Tenancy,Open,SENSITIVE: client is a relative of a Centre volunteer. Conflict flagged. Restrict access.
+1047,Zhi Hao Koh,S0407545C,1964-08-07,Blk 61 Ang Mo Kio Ave 3 #12-182,88927062,zhi.koh@example.com,Employed,4200,,Neighbour disputes,Closed,"Smoking at corridor, children asthmatic."
+1048,Elaine Pereira,S4546257D,8-Mar-60,Blk 124 Hougang Ave 8 #08-138,84036943,elaine.pereira@example.com,Part-time,2600,Friend,Employment,Open,Claims constructive dismissal. Wants to know options.
+1049,Wei Ming Tan,T2342171C,17-Feb-88,Blk 8 Jurong West St 52 #20-146,85209458,wei.tan@example.com,Retired,about 2k,Walk-in,Wills and probate,Closed,Needs LPA for elderly mother with dementia.
+1050,Li Ying Ong,S2209796J,1986-01-06,Blk 661 Tampines St 41 #12-248,81536088,li.ong@example.com,Student,4200,,Tenancy,Closed,"Sub-tenant, main tenant vanished, agent demanding rent."
+1051,Hui Ling Lim,T3478399C,7/1/1971,Blk 54 Jurong West St 52 #16-093,86453514,hui.lim@example.com,Self-employed,"$3,200",,Employment,Closed,"Injured at work, no MC paid. Small firm, no HR."
+1052,Priya Nair,S1129893B,1964-01-10,Blk 322 Jurong West St 52 #18-136,89360841,priya.nair@example.com,Employed,"$3,200",Family Service Centre,Consumer debt,Open,"Credit card debt, harassment calls to workplace."
+1053,Jia Hao Lee,S5675302C,2003-10-05,Blk 467 Bedok Nth Rd #03-002,85036924,jia.lee@example.com,Retired,,MP meet-the-people,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1054,Ravi Das,S9344183E,1984-02-08,Blk 346 Jurong West St 52 #08-021,83691241,ravi.das@example.com,Retired,"$1,800",,Tenancy,Closed,"Rental arrears dispute, landlord changed the lock."
+1055,Chin Hock Teo,T6036532C,1965-08-07,Blk 609 Clementi Ave 4 #11-242,88501262,chin.teo@example.com,Retired,,Walk-in,Consumer debt,Closed,"Credit card debt, harassment calls to workplace."
+1056,Pei Shan Sim,S0454908I,2002-05-17,Blk 666 Hougang Ave 8 #08-138,82734917,pei.sim@example.com,Unemployed,3000,Previous client,Consumer debt,Open,"Credit card debt, harassment calls to workplace."
+1057,Xin Yi Yeo,T1654804D,1993-04-16,Blk 155 Bedok Nth Rd #06-017,84498451,xin.yeo@example.com,Unemployed,3800,Previous client,Employment,Closed,"Unpaid overtime, foreign worker, worried about pass status."
+1058,Xin Yi Yeo,T2348762D,1988-06-08,Blk 380 Tampines St 41 #08-072,81682673,xin.yeo@example.com,Employed,n/a,MP meet-the-people,Small claims,Closed,"Car workshop overcharged, poor repair."
+1059,Wei Ming Tan,S8515341E,1962-07-16,Blk 393 Tampines St 41 #11-255,85694493,wei.tan@example.com,Self-employed,3200,Google,Small claims,Open,"Deposit for wedding photography, vendor closed down."
+1060,Hui Ling Lim,S5627948G,1999-01-13,Blk 65 Yishun Ring Rd #10-028,87327957,hui.lim@example.com,Retired,unknown,,Tenancy,Closed,"Aircon and water heater broken 3 months, landlord ignores."
+1061,Priya Nair,T9442769E,19/1/1978,Blk 222 Woodlands Dr 50 #04-025,87894694,priya.nair@example.com,Student,2600,Facebook,Employment,Closed,Dismissed after raising a safety complaint. Has messages.
+1062,Zhi Hao Koh,S2844757J,1964-10-07,Blk 265 Toa Payoh Lor 1 #09-121,89734117,zhi.koh@example.com,Employed,,Previous client,Tenancy,Open,"Aircon and water heater broken 3 months, landlord ignores."
+1063,Vijay Iyer,T4510536I,1967-03-06,Blk 503 Woodlands Dr 50 #20-151,87199556,vijay.iyer@example.com,Retired,4200,,Consumer debt,Closed,"Renovation contractor took deposit, work not done."
+1064,Jia Hao Lee,S1114178D,20-Mar-57,Blk 494 Bishan St 12 #13-130,87667024,jia.lee@example.com,Student,n/a,,Tenancy,Closed,"Rental arrears dispute, landlord changed the lock."
+1065,Priya Nair,T3929629F,1965-03-07,Blk 686 Dover Rd #09-095,81230106,priya.nair@example.com,Retired,"$1,800",Community centre,Tenancy,Closed,"Rental arrears dispute, landlord changed the lock."
+1066,Jia Hao Lee,S0210345C,11-Jul-62,Blk 556 Clementi Ave 4 #07-192,82130444,jia.lee@example.com,Unemployed,2600,Previous client,Tenancy,Closed,"Eviction notice, 1 week given. Family with young children."
+1067,Faizal Osman,S8427218G,1986-07-04,Blk 20 Dover Rd #20-292,83409849,faizal.osman@example.com,Unemployed,"$2,500",Previous client,Neighbour disputes,Open,"Shared corridor blocked with items, fire hazard."
+1068,Kok Wai Wong,S2104102F,1985-03-26,Blk 419 Clementi Ave 4 #03-213,86895533,kok.wong@example.com,Student,0,,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1069,Priya Nair,T9020281Z,1-Jun-72,Blk 318 Telok Blangah Cres #18-239,81175699,priya.nair@example.com,Self-employed,3000,Walk-in,Tenancy,Open,Landlord withholding deposit. Verbal tenancy only.
+1070,Aisyah Yusof,T4817664A,1956-01-19,Blk 332 Yishun Ring Rd #13-260,85644356,aisyah.yusof@example.com,Unemployed,"$2,500",MP meet-the-people,Neighbour disputes,Closed,"Shared corridor blocked with items, fire hazard."
+1071,Faizal Osman,T5323028G,1998-04-06,Blk 160 Commonwealth Dr #13-180,84059215,faizal.osman@example.com,Retired,3200,Google,Wills and probate,Closed,"Father passed, no will, HDB flat, siblings disagree."
+1072,Kok Wai Wong,S2519195E,1985-04-16,Blk 183 Dover Rd #04-200,86406047,kok.wong@example.com,Self-employed,about 2k,Walk-in,Unassigned,Open,Not sure we can help - flag for manager.
+1073,Siti Hassan,T6891176C,1981-07-17,Blk 616 Bedok Nth Rd #20-022,89644157,siti.hassan@example.com,Employed,"$2,500",Facebook,Wills and probate,Closed,"Small estate, bank refuses to release without grant."
+1074,Kok Wai Wong,T5495378D,,Blk 503 Telok Blangah Cres #09-096,83388267,kok.wong@example.com,Employed,unknown,Community centre,Consumer debt,Open,"Bought faulty phone, shop refuses refund."
+1075,Meena Subramaniam,S8063743Z,15-Sep-61,Blk 503 Ang Mo Kio Ave 3 #04-255,81938572,meena.subramaniam@example.com,Student,,MP meet-the-people,Small claims,Closed,"Car workshop overcharged, poor repair."
+1076,Kavitha Menon,S5341629E,20/11/1956,Blk 501 Telok Blangah Cres #04-106,89929608,kavitha.menon@example.com,Part-time,2200,Facebook,Neighbour disputes,Closed,Dispute over shared wall renovation.
+1077,Wei Ming Tan,S3222970H,,Blk 625 Jurong West St 52 #13-158,84290958,wei.tan@example.com,Employed,,Family Service Centre,Small claims,Open,"Deposit for wedding photography, vendor closed down."
+1078,Iskandar Salleh,S1465964D,,Blk 355 Bedok Nth Rd #15-121,89263804,iskandar.salleh@example.com,Student,1500,Walk-in,Wills and probate,Closed,"Executor of aunt's estate, unsure of duties."
+1079,Deepa Pillai,S7636937Z,1978-07-11,Blk 452 Toa Payoh Lor 1 #10-150,81212883,deepa.pillai@example.com,Part-time,"$1,800",MP meet-the-people,Small claims,Open,"Online purchase never delivered, seller unreachable."
+1080,Priya Nair,S8173150E,19/12/1956,Blk 353 Bishan St 12 #06-241,82217027,priya.nair@example.com,Unemployed,4200,Google,Tenancy,Closed,"Rental arrears dispute, landlord changed the lock."
+1081,Anand Rajan,T3810176H,7/10/1988,Blk 147 Bedok Nth Rd #14-050,82401511,anand.rajan@example.com,Employed,2600,Previous client,Unassigned,Open,"Immigration question - out of scope, note for records."
+1082,Li Ying Ong,T7205501E,18/9/1981,Blk 114 Woodlands Dr 50 #05-155,89511376,li.ong@example.com,Student,2200,Google,Neighbour disputes,Open,"Smoking at corridor, children asthmatic."
+1083,Marcus DCruz,S9670397H,1990-02-15,Blk 107 Woodlands Dr 50 #18-080,83415224,marcus.dcruz@example.com,Student,"$2,500",Walk-in,Consumer debt,Closed,"Guarantor for a friend's loan, friend defaulted."
+1084,Xin Yi Yeo,S6248906Z,18/5/1986,Blk 48 Yishun Ring Rd #15-154,82314520,xin.yeo@example.com,Self-employed,1500,Community centre,Tenancy,Closed,"Aircon and water heater broken 3 months, landlord ignores."
+1085,Yong Sheng Chua,S9816449F,1969-06-03,Blk 489 Yishun Ring Rd #13-221,86601385,yong.chua@example.com,Retired,2600,,Employment,Open,"Unpaid overtime, foreign worker, worried about pass status."
+1086,Wei Ming Tan,T0557388C,2001-01-12,Blk 108 Bishan St 12 #20-183,85132173,wei.tan@example.com,Unemployed,,Google,Tenancy,Closed,"Rental arrears dispute, landlord changed the lock."
+1087,Pei Shan Sim,T2718501H,9-Oct-71,Blk 436 Toa Payoh Lor 1 #13-206,82506304,pei.sim@example.com,Unemployed,"$1,800",Friend,Small claims,Open,"Car workshop overcharged, poor repair."
+1088,Nurul Ibrahim,S2440706A,,Blk 655 Hougang Ave 8 #02-109,81093602,nurul.ibrahim@example.com,Part-time,3000,Facebook,Wills and probate,Closed,"Father passed, no will, HDB flat, siblings disagree."
+1089,Deepa Pillai,T6175115B,2000-02-23,Blk 318 Hougang Ave 8 #19-059,84542500,deepa.pillai@example.com,Employed,4200,,Consumer debt,Closed,"Credit card debt, harassment calls to workplace."
+1090,Xin Yi Yeo,T6066377E,17-Jul-99,Blk 108 Bedok Nth Rd #07-300,86437043,xin.yeo@example.com,Self-employed,1800,Family Service Centre,Employment,Open,Claims constructive dismissal. Wants to know options.
+1091,Xin Yi Yeo,T9276517G,12/5/1995,Blk 589 Bishan St 12 #10-033,85274909,xin.yeo@example.com,Retired,2200,MP meet-the-people,Small claims,Closed,"Online purchase never delivered, seller unreachable."
+1092,Faizal Osman,T6713291F,,Blk 361 Jurong West St 52 #07-283,89224546,faizal.osman@example.com,Unemployed,3800,Previous client,Consumer debt,Open,"Bought faulty phone, shop refuses refund."
+1093,Aisyah Yusof,S3895123A,1965-06-23,Blk 112 Woodlands Dr 50 #11-136,82852658,aisyah.yusof@example.com,Self-employed,1800,Community centre,Tenancy,Open,"Sub-tenant, main tenant vanished, agent demanding rent."
+1094,Shu Fen Ng,S4714044B,6-Jul-64,Blk 558 Commonwealth Dr #04-279,83730802,shu.ng@example.com,Student,unknown,,Tenancy,Open,"Rental arrears dispute, landlord changed the lock."
+1095,Iskandar Salleh,T5384953Z,,Blk 673 Hougang Ave 8 #04-155,81044865,iskandar.salleh@example.com,Employed,,,Small claims,Closed,"Car workshop overcharged, poor repair."
+1096,Siti Hassan,S2069288I,1982-09-22,Blk 540 Hougang Ave 8 #13-256,84313776,siti.hassan@example.com,Part-time,1800,,Tenancy,Open,"Aircon and water heater broken 3 months, landlord ignores."
+1097,Yong Sheng Chua,S4453428I,20/1/1982,Blk 605 Toa Payoh Lor 1 #20-162,83844103,yong.chua@example.com,Employed,~3000,Google,Employment,Open,Dismissed after raising a safety complaint. Has messages.
+1098,Wei Ming Tan,S2298910F,13-Apr-59,Blk 418 Tampines St 41 #12-113,86817302,wei.tan@example.com,Retired,2200,,Wills and probate,Open,"Executor of aunt's estate, unsure of duties."
+1099,Siti Hassan,T3623234C,26-Apr-85,Blk 190 Ang Mo Kio Ave 3 #10-268,85276984,siti.hassan@example.com,Student,,,Consumer debt,Closed,"Credit card debt, harassment calls to workplace."
+1100,Faizal Osman,S3811837H,,Blk 380 Toa Payoh Lor 1 #13-036,82227452,faizal.osman@example.com,Retired,,Walk-in,Tenancy,Closed,"Aircon and water heater broken 3 months, landlord ignores."
+1101,Josephine Fernandez,T8917007J,14-Feb-79,Blk 147 Telok Blangah Cres #08-082,89268191,josephine.fernandez@example.com,Self-employed,,Previous client,Tenancy,Closed,"Rental arrears dispute, landlord changed the lock."
+1102,Nurul Ibrahim,S2375514H,1959-03-24,Blk 51 Telok Blangah Cres #11-165,84067566,nurul.ibrahim@example.com,Student,4200,Walk-in,Employment,Closed,"Unpaid overtime, foreign worker, worried about pass status."
+1103,Danial Latiff,S3014822F,1995-10-04,Blk 613 Clementi Ave 4 #13-251,88802174,danial.latiff@example.com,Employed,3800,Google,Neighbour disputes,Closed,"Noise from upstairs unit, nightly, HDB."
+1104,Hui Ling Lim,S6300367A,1996-02-15,Blk 351 Bishan St 12 #07-156,81696999,hui.lim@example.com,Unemployed,4200,Friend,Consumer debt,Closed,"Bought faulty phone, shop refuses refund."
+1105,Priya Nair,S9996689C,1971-06-16,Blk 637 Toa Payoh Lor 1 #07-240,89537118,priya.nair@example.com,Student,,Facebook,Small claims,Closed,"Neighbour's contractor damaged wall, refuses to pay."
+1106,Shu Fen Ng,T4105781D,2002-09-21,Blk 2 Toa Payoh Lor 1 #17-206,85514358,shu.ng@example.com,Retired,"$3,200",Community centre,Tenancy,Closed,"Sub-tenant, main tenant vanished, agent demanding rent."
+1107,Jia Hao Lee,S0487014J,1970-10-27,Blk 43 Dover Rd #08-259,82717006,jia.lee@example.com,Retired,0,Friend,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1108,Kok Wai Wong,T3374234G,27/2/1966,Blk 250 Bishan St 12 #02-263,86757074,kok.wong@example.com,Retired,n/a,,Employment,Closed,Dismissed after raising a safety complaint. Has messages.
+1109,Mei Ling Goh,T4429492J,1982-07-25,Blk 3 Jurong West St 52 #10-253,89253209,mei.goh@example.com,Self-employed,3000,Family Service Centre,Employment,Open,Dismissed after raising a safety complaint. Has messages.
+1110,Mei Ling Goh,S2865742Z,22-May-96,Blk 106 Tampines St 41 #12-028,81446746,mei.goh@example.com,Unemployed,"$3,200",,Consumer debt,Open,"Guarantor for a friend's loan, friend defaulted."
+1111,Pei Shan Sim,S8710180C,2003-12-17,Blk 205 Jurong West St 52 #13-124,88282212,pei.sim@example.com,Unemployed,3000,Family Service Centre,Neighbour disputes,Closed,"Noise from upstairs unit, nightly, HDB."
+1112,Shu Fen Ng,T3637116D,14-Nov-85,Blk 569 Woodlands Dr 50 #18-129,88040890,shu.ng@example.com,Employed,"$1,800",,Consumer debt,Open,"Credit card debt, harassment calls to workplace."
+1113,Anand Rajan,T4007061C,2/5/1967,Blk 3 Dover Rd #16-225,83144912,anand.rajan@example.com,Retired,2200,Family Service Centre,Small claims,Closed,"Online purchase never delivered, seller unreachable."
+1114,Elaine Pereira,S1923097D,3/7/1956,Blk 480 Jurong West St 52 #05-107,85113665,elaine.pereira@example.com,Part-time,3000,Previous client,Small claims,Open,"Car workshop overcharged, poor repair."
+1115,Yong Sheng Chua,T6340147G,1978-11-14,Blk 446 Tampines St 41 #08-012,87897815,yong.chua@example.com,Unemployed,"$1,800",,Tenancy,Open,"Aircon and water heater broken 3 months, landlord ignores."
+1116,Vijay Iyer,T1343997D,1968-11-10,Blk 88 Bedok Nth Rd #20-175,87565801,vijay.iyer@example.com,Employed,unknown,,Consumer debt,Closed,"Renovation contractor took deposit, work not done."
+1117,Siti Hassan,T0790361A,2000-12-25,Blk 374 Jurong West St 52 #17-129,85298499,siti.hassan@example.com,Part-time,"$2,500",Walk-in,Tenancy,Closed,"Sub-tenant, main tenant vanished, agent demanding rent."
+1118,Chin Hock Teo,S4958752C,10-Aug-97,Blk 431 Toa Payoh Lor 1 #06-051,81808722,chin.teo@example.com,Retired,4200,,Employment,Closed,"Injured at work, no MC paid. Small firm, no HR."
+1119,Shu Fen Ng,S4825364I,18/10/1977,Blk 553 Tampines St 41 #14-208,83493132,shu.ng@example.com,Unemployed,"$3,200",Google,Tenancy,Closed,"Eviction notice, 1 week given. Family with young children."
+1120,Chin Hock Teo,S4070904F,1968-10-23,Blk 330 Tampines St 41 #08-243,86263197,chin.teo@example.com,Employed,2600,Friend,Employment,Closed,"Unpaid overtime, foreign worker, worried about pass status."
+1121,Zhi Hao Koh,S5762292C,1977-10-23,Blk 327 Ang Mo Kio Ave 3 #17-187,81991795,zhi.koh@example.com,Self-employed,0,Facebook,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1122,Bernard Tham,S9579861Z,23/1/1981,Blk 568 Dover Rd #03-079,86409047,bernard.tham@example.com,Employed,2600,Facebook,Unassigned,Closed,Not sure we can help - flag for manager.
+1123,Zhi Hao Koh,T4005469H,1972-03-04,Blk 99 Clementi Ave 4 #18-098,86232594,zhi.koh@example.com,Student,,Family Service Centre,Tenancy,Closed,"Sub-tenant, main tenant vanished, agent demanding rent."
+1124,Danial Latiff,T5847789B,1969-05-01,Blk 402 Bishan St 12 #03-234,85790318,danial.latiff@example.com,Student,4200,Previous client,Small claims,Closed,"Online purchase never delivered, seller unreachable."
+1125,Mei Ling Goh,S1138586B,2-May-90,Blk 530 Tampines St 41 #04-273,82889949,mei.goh@example.com,Employed,,Walk-in,Employment,Closed,"Injured at work, no MC paid. Small firm, no HR."
+1126,Shu Fen Ng,S9217373C,1996-09-26,Blk 592 Toa Payoh Lor 1 #02-007,84691247,shu.ng@example.com,Part-time,"$1,800",Previous client,Consumer debt,Open,"Guarantor for a friend's loan, friend defaulted."
+1127,Suresh Kumar,S2433205J,5-Dec-01,Blk 650 Bishan St 12 #07-243,86390602,suresh.kumar@example.com,Unemployed,,,Tenancy,Open,"Eviction notice, 1 week given. Family with young children."
+1128,Shu Fen Ng,T6462670G,9-May-92,Blk 691 Telok Blangah Cres #04-129,84128494,shu.ng@example.com,Part-time,2600,Friend,Small claims,Open,"Car workshop overcharged, poor repair."
+1129,Iskandar Salleh,T0067961C,1971-01-04,Blk 624 Tampines St 41 #19-169,87531691,iskandar.salleh@example.com,Self-employed,,Facebook,Unassigned,Open,"Immigration question - out of scope, note for records."
+1130,Yong Sheng Chua,T9373701C,1957-03-07,Blk 231 Yishun Ring Rd #14-084,87106318,yong.chua@example.com,Part-time,,Friend,Employment,Open,Claims constructive dismissal. Wants to know options.
+1131,Zhi Hao Koh,S3621025A,1957-10-04,Blk 185 Ang Mo Kio Ave 3 #16-058,88331348,zhi.koh@example.com,Self-employed,4200,Friend,Tenancy,Open,"Eviction notice, 1 week given. Family with young children."
+1132,Ravi Das,S6074090G,14-Jan-76,Blk 602 Yishun Ring Rd #11-278,85797641,ravi.das@example.com,Part-time,3200,,Neighbour disputes,Closed,"Shared corridor blocked with items, fire hazard."
+1133,Aishah Rahman,T4443126E,4/5/2003,Blk 124 Hougang Ave 8 #15-186,85653524,aishah.rahman@example.com,Self-employed,unknown,Friend,Wills and probate,Open,Needs LPA for elderly mother with dementia.
+1134,Meena Subramaniam,T9435963G,28-Nov-83,Blk 31 Dover Rd #07-188,89491741,meena.subramaniam@example.com,Part-time,"$3,200",Friend,Consumer debt,Closed,"Bought faulty phone, shop refuses refund."
+1135,Ravi Das,S5478016G,24/3/1985,Blk 486 Toa Payoh Lor 1 #15-138,86330433,ravi.das@example.com,Student,3000,,Small claims,Closed,"Online purchase never delivered, seller unreachable."
+1136,Kavitha Menon,S9920662B,19/4/2001,Blk 368 Toa Payoh Lor 1 #03-190,82650192,kavitha.menon@example.com,Employed,2600,Walk-in,Wills and probate,Closed,"Executor of aunt's estate, unsure of duties."
+1137,Siti Hassan,T3109212B,3/3/1977,Blk 353 Telok Blangah Cres #13-191,88149373,siti.hassan@example.com,Student,"$1,800",Friend,Unassigned,Closed,Not sure we can help - flag for manager.
+1138,Kok Wai Wong,T3077479C,1965-09-09,Blk 135 Tampines St 41 #13-050,85866617,kok.wong@example.com,Employed,4200,Previous client,Tenancy,Closed,"Aircon and water heater broken 3 months, landlord ignores."
+1139,Suresh Kumar,T7511068Z,1998-03-15,Blk 434 Telok Blangah Cres #09-076,88457455,suresh.kumar@example.com,Part-time,3000,MP meet-the-people,Unassigned,Open,"Walk-in, complex family matter, referred elsewhere?"
+1140,Danial Latiff,S7222211A,1998-03-07,Blk 188 Jurong West St 52 #03-145,81815747,danial.latiff@example.com,Unemployed,n/a,Friend,Neighbour disputes,Open,"Noise from upstairs unit, nightly, HDB."
+1141,Meena Subramaniam,S0927744D,1968-11-03,Blk 162 Clementi Ave 4 #07-165,82014783,meena.subramaniam@example.com,Part-time,0,,Unassigned,Closed,"Immigration question - out of scope, note for records."
+1142,Bernard Tham,S2885294G,14-Nov-76,Blk 230 Clementi Ave 4 #04-061,89546178,bernard.tham@example.com,Employed,2200,Family Service Centre,Consumer debt,Closed,"Renovation contractor took deposit, work not done."
+1143,Yong Sheng Chua,S9932189B,26-Oct-94,Blk 443 Yishun Ring Rd #09-192,87888369,yong.chua@example.com,Unemployed,2600,Community centre,Tenancy,Closed,"Rental arrears dispute, landlord changed the lock."
+1144,Ravi Das,T6046591I,13/10/1974,Blk 146 Toa Payoh Lor 1 #18-043,89961855,ravi.das@example.com,Unemployed,n/a,Community centre,Wills and probate,Closed,Needs LPA for elderly mother with dementia.
+1145,Faizal Osman,T6447039F,1986-04-01,Blk 80 Telok Blangah Cres #19-008,85062974,faizal.osman@example.com,Retired,3800,,Tenancy,Closed,"Rental arrears dispute, landlord changed the lock."
+1146,Xin Yi Yeo,T9912512B,1996-02-17,Blk 421 Jurong West St 52 #07-154,86317936,xin.yeo@example.com,Student,2600,Community centre,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1147,Meena Subramaniam,S8868997Z,2-Dec-64,Blk 317 Telok Blangah Cres #16-072,88807172,meena.subramaniam@example.com,Self-employed,"$2,500",Google,Consumer debt,Closed,"Guarantor for a friend's loan, friend defaulted."
+1148,Pei Shan Sim,T1315492D,1976-09-21,Blk 474 Bishan St 12 #10-031,88815037,pei.sim@example.com,Employed,"$3,200",,Neighbour disputes,Closed,"Smoking at corridor, children asthmatic."
+1149,Bernard Tham,T2772793Z,1978-03-14,Blk 94 Bishan St 12 #17-066,86914688,bernard.tham@example.com,Employed,4200,Walk-in,Consumer debt,Closed,"Bought faulty phone, shop refuses refund."
+1150,Mei Ling Goh,T9220869F,3-Sep-57,Blk 685 Ang Mo Kio Ave 3 #13-016,82371985,mei.goh@example.com,Unemployed,1500,MP meet-the-people,Employment,Closed,Claims constructive dismissal. Wants to know options.
+1151,Anand Rajan,T2215073I,2001-02-07,Blk 323 Clementi Ave 4 #04-156,81738584,anand.rajan@example.com,Retired,1500,Previous client,Consumer debt,Open,"Renovation contractor took deposit, work not done."
+1152,Aisyah Yusof,T8125331D,3-Aug-74,Blk 698 Tampines St 41 #08-045,87971843,aisyah.yusof@example.com,Student,2600,,Unassigned,Closed,"Walk-in, complex family matter, referred elsewhere?"
+1153,Jia Hao Lee,T1636957H,1986-02-25,Blk 423 Dover Rd #19-150,87709053,jia.lee@example.com,Student,"$2,500",Google,Tenancy,Open,Landlord withholding deposit. Verbal tenancy only.
+1154,Kok Wai Wong,S4900442Z,26/1/1970,Blk 21 Hougang Ave 8 #02-185,81126207,kok.wong@example.com,Retired,"$1,800",Previous client,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1155,Hui Ling Lim,S5648624C,27/10/1989,Blk 54 Woodlands Dr 50 #19-287,81831860,hui.lim@example.com,Student,3200,MP meet-the-people,Neighbour disputes,Closed,"Noise from upstairs unit, nightly, HDB."
+1156,Hui Ling Lim,S7146053E,1999-05-03,Blk 473 Hougang Ave 8 #03-271,82292191,hui.lim@example.com,Employed,2200,Family Service Centre,Wills and probate,Open,"Executor of aunt's estate, unsure of duties."
+1157,Siti Hassan,T8812566C,1985-09-14,Blk 319 Bishan St 12 #18-117,85101051,siti.hassan@example.com,Self-employed,3800,,Unassigned,Closed,"Immigration question - out of scope, note for records."
+1158,Shu Fen Ng,S0313114B,,Blk 595 Clementi Ave 4 #06-180,89545274,shu.ng@example.com,Unemployed,,Google,Tenancy,Closed,"Sub-tenant, main tenant vanished, agent demanding rent."
+1159,Kok Wai Wong,S2310659I,2001-12-27,Blk 403 Bishan St 12 #18-250,81796644,kok.wong@example.com,Student,,Family Service Centre,Neighbour disputes,Closed,Dispute over shared wall renovation.
+1160,Anand Rajan,T0166732D,27/11/1983,Blk 112 Commonwealth Dr #02-204,85108088,anand.rajan@example.com,Self-employed,3200,Previous client,Small claims,Open,"Deposit for wedding photography, vendor closed down."
+1161,Yong Sheng Chua,T9251515J,2/9/1998,Blk 621 Clementi Ave 4 #04-237,88710927,yong.chua@example.com,Employed,"$3,200",Community centre,Small claims,Closed,"Deposit for wedding photography, vendor closed down."
+1162,Iskandar Salleh,T9779309G,13/11/1984,Blk 568 Tampines St 41 #13-032,87625024,iskandar.salleh@example.com,Unemployed,1500,Friend,Tenancy,Open,"Sub-tenant, main tenant vanished, agent demanding rent."
+1163,Suresh Kumar,T5059398F,1/6/1969,Blk 427 Hougang Ave 8 #11-174,89194464,suresh.kumar@example.com,Student,"$3,200",,Neighbour disputes,Closed,"Shared corridor blocked with items, fire hazard."
+1164,Farah Karim,T6052318B,4/10/1965,Blk 620 Clementi Ave 4 #06-197,86242949,farah.karim@example.com,Student,,Community centre,Wills and probate,Open,"Father passed, no will, HDB flat, siblings disagree."
+1165,Iskandar Salleh,T1324796E,7-Sep-97,Blk 260 Tampines St 41 #04-298,82267715,iskandar.salleh@example.com,Retired,1800,Friend,Wills and probate,Open,Needs LPA for elderly mother with dementia.
+1166,Wei Ming Tan,S7770740B,,Blk 337 Hougang Ave 8 #07-213,86524131,wei.tan@example.com,Part-time,~3000,Community centre,Consumer debt,Open,"Renovation contractor took deposit, work not done."
+1167,Mei Ling Goh,T1653301Z,2003-10-16,Blk 168 Bishan St 12 #12-200,85966623,mei.goh@example.com,Unemployed,2200,Family Service Centre,Wills and probate,Closed,"Father passed, no will, HDB flat, siblings disagree."
+1168,Chin Hock Teo,T4386170E,28/10/1993,Blk 250 Hougang Ave 8 #06-120,86408241,chin.teo@example.com,Part-time,,,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1169,Kavitha Menon,S8705312G,1-Jan-98,Blk 363 Telok Blangah Cres #13-024,84418091,kavitha.menon@example.com,Retired,2200,Google,Consumer debt,Closed,"Loan from licensed moneylender, disputes amount owed."
+1170,Wei Ming Tan,T1396408B,8/9/1979,Blk 146 Hougang Ave 8 #17-115,84339496,wei.tan@example.com,Employed,2600,Family Service Centre,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1171,Jia Hao Lee,S0763217B,1968-01-08,Blk 86 Tampines St 41 #17-214,82921515,jia.lee@example.com,Part-time,2600,Friend,Consumer debt,Closed,"Credit card debt, harassment calls to workplace."
+1172,Priya Nair,T7267802C,27/8/1966,Blk 222 Tampines St 41 #13-104,81944540,priya.nair@example.com,Retired,n/a,Community centre,Small claims,Open,"Online purchase never delivered, seller unreachable."
+1173,Shu Fen Ng,S4498198A,19/9/1964,Blk 376 Clementi Ave 4 #04-214,89052014,shu.ng@example.com,Self-employed,n/a,Family Service Centre,Tenancy,Open,"Aircon and water heater broken 3 months, landlord ignores."
+1174,Anand Rajan,S7121816Z,1963-02-27,Blk 76 Clementi Ave 4 #19-082,85636653,anand.rajan@example.com,Student,"$3,200",Previous client,Unassigned,Closed,"Immigration question - out of scope, note for records."
+1175,Vijay Iyer,S9142038F,7/9/1981,Blk 218 Bishan St 12 #15-015,82556302,vijay.iyer@example.com,Retired,0,Google,Employment,Closed,Claims constructive dismissal. Wants to know options.
+1176,Jia Hao Lee,T9844343C,18/3/1977,Blk 264 Woodlands Dr 50 #03-159,82901520,jia.lee@example.com,Employed,"$1,800",,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1177,Li Ying Ong,S5029939H,1992-10-11,Blk 619 Jurong West St 52 #11-127,87585634,li.ong@example.com,Self-employed,~3000,Family Service Centre,Neighbour disputes,Closed,"Noise from upstairs unit, nightly, HDB."
+1178,Xin Yi Yeo,T8980288A,4/5/1970,Blk 320 Telok Blangah Cres #11-011,87651612,xin.yeo@example.com,Student,,,Consumer debt,Open,"Renovation contractor took deposit, work not done."
+1179,Deepa Pillai,S1282999C,1985-10-05,Blk 476 Bedok Nth Rd #18-111,85633848,deepa.pillai@example.com,Part-time,2600,Friend,Small claims,Closed,"Neighbour's contractor damaged wall, refuses to pay."
+1180,Pei Shan Sim,T8252878E,1994-03-13,Blk 123 Bishan St 12 #12-118,88318308,pei.sim@example.com,Part-time,4200,Previous client,Tenancy,Closed,"Rental arrears dispute, landlord changed the lock."
+1181,Ravi Das,S6772689E,1-Mar-74,Blk 182 Woodlands Dr 50 #07-088,89674676,ravi.das@example.com,Self-employed,,,Tenancy,Open,Landlord withholding deposit. Verbal tenancy only.
+1182,Zhi Hao Koh,S7255741A,27/8/1989,Blk 579 Jurong West St 52 #15-166,84161247,zhi.koh@example.com,Student,"$2,500",MP meet-the-people,Employment,Open,"Unpaid overtime, foreign worker, worried about pass status."
+1183,Kok Wai Wong,T7273373E,9/10/1977,Blk 654 Clementi Ave 4 #07-122,86620329,kok.wong@example.com,Unemployed,3200,Facebook,Wills and probate,Closed,"Small estate, bank refuses to release without grant."
+1184,Priya Nair,T6669288D,5/4/1990,Blk 95 Tampines St 41 #05-008,89831952,priya.nair@example.com,Employed,,Previous client,Small claims,Closed,"Neighbour's contractor damaged wall, refuses to pay."
+1185,Chin Hock Teo,T0250065D,21/10/1986,Blk 246 Jurong West St 52 #05-018,85025975,chin.teo@example.com,Retired,3800,Google,Wills and probate,Open,"Father passed, no will, HDB flat, siblings disagree."
+1186,Farah Karim,T4390193J,1966-06-17,Blk 105 Ang Mo Kio Ave 3 #02-135,81540192,farah.karim@example.com,Unemployed,3800,MP meet-the-people,Consumer debt,Closed,"Renovation contractor took deposit, work not done."
+1187,Chin Hock Teo,S1080349C,15/3/1975,Blk 568 Jurong West St 52 #09-228,84331964,chin.teo@example.com,Part-time,n/a,Friend,Tenancy,Closed,"Sub-tenant, main tenant vanished, agent demanding rent."
+1188,Aishah Rahman,S9844056C,,Blk 271 Telok Blangah Cres #14-167,87832914,aishah.rahman@example.com,Unemployed,3000,Walk-in,Wills and probate,Closed,"Small estate, bank refuses to release without grant."
+1189,Zhi Hao Koh,S7946035A,23/7/1988,Blk 436 Bedok Nth Rd #13-283,82761622,zhi.koh@example.com,Retired,2600,,Employment,Closed,Claims constructive dismissal. Wants to know options.
+1190,Kok Wai Wong,T3202845Z,16/12/2003,Blk 47 Bedok Nth Rd #16-035,88563470,kok.wong@example.com,Self-employed,4200,Google,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1191,Yong Sheng Chua,S3134897C,21/11/1981,Blk 662 Clementi Ave 4 #15-237,89917488,yong.chua@example.com,Unemployed,,,Neighbour disputes,Closed,"Noise from upstairs unit, nightly, HDB."
+1192,Vijay Iyer,S4392869F,1982-04-06,Blk 7 Commonwealth Dr #12-240,86263769,vijay.iyer@example.com,Student,3200,Google,Consumer debt,Open,"Guarantor for a friend's loan, friend defaulted."
+1193,Yong Sheng Chua,T7845346H,1990-09-14,Blk 11 Woodlands Dr 50 #10-244,83299877,yong.chua@example.com,Employed,,Previous client,Neighbour disputes,Open,"Noise from upstairs unit, nightly, HDB."
+1194,Mei Ling Goh,S4589281D,11-Aug-69,Blk 297 Toa Payoh Lor 1 #06-232,85304216,mei.goh@example.com,Employed,,Community centre,Neighbour disputes,Closed,Dispute over shared wall renovation.
+1195,Siti Hassan,T8195705C,28-Apr-69,Blk 644 Commonwealth Dr #19-137,85287160,siti.hassan@example.com,Student,3800,Community centre,Neighbour disputes,Closed,"Noise from upstairs unit, nightly, HDB."
+1196,Jia Hao Lee,T0876295E,12/11/1973,Blk 250 Ang Mo Kio Ave 3 #15-206,83993275,jia.lee@example.com,Employed,~3000,Google,Employment,Closed,Claims constructive dismissal. Wants to know options.
+1197,Siti Hassan,S2614542E,23/2/1968,Blk 277 Yishun Ring Rd #16-212,83827557,siti.hassan@example.com,Student,0,Walk-in,Tenancy,Closed,"Rental arrears dispute, landlord changed the lock."
+1198,Hui Ling Lim,S6070125H,1998-10-05,Blk 460 Ang Mo Kio Ave 3 #10-271,86202468,hui.lim@example.com,Unemployed,2200,MP meet-the-people,Small claims,Closed,"Car workshop overcharged, poor repair."
+1199,Deepa Pillai,S9026432D,1973-12-04,Blk 695 Bedok Nth Rd #07-049,89133014,deepa.pillai@example.com,Employed,"$3,200",MP meet-the-people,Wills and probate,Closed,"Small estate, bank refuses to release without grant."
+1200,Aishah Rahman,T4006316B,1989-03-23,Blk 270 Yishun Ring Rd #19-070,85487293,aishah.rahman@example.com,Student,1500,,Neighbour disputes,Closed,"Smoking at corridor, children asthmatic."
+1201,Mei Ling Goh,S0491675G,17-Jun-70,Blk 347 Yishun Ring Rd #16-001,87135837,mei.goh@example.com,Employed,n/a,,Consumer debt,Open,"Bought faulty phone, shop refuses refund."
+1202,Vijay Iyer,T9615737C,17-Apr-82,Blk 249 Hougang Ave 8 #07-244,86551491,vijay.iyer@example.com,Part-time,"$3,200",Google,Consumer debt,Closed,"Renovation contractor took deposit, work not done."
+1203,Zhi Hao Koh,S1897109C,1973-09-02,Blk 184 Tampines St 41 #08-256,89652667,zhi.koh@example.com,Employed,n/a,Family Service Centre,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1204,Aishah Rahman,S2747225J,1996-01-22,Blk 684 Yishun Ring Rd #16-074,83001505,aishah.rahman@example.com,Part-time,"$3,200",MP meet-the-people,Employment,Closed,Claims constructive dismissal. Wants to know options.
+1205,Hui Ling Lim,S2420921E,2001-12-19,Blk 40 Yishun Ring Rd #15-063,84857918,hui.lim@example.com,Unemployed,3200,Friend,Neighbour disputes,Open,"Smoking at corridor, children asthmatic."
+1206,Kok Wai Wong,S2637421C,4/5/1960,Blk 88 Jurong West St 52 #20-229,89434887,kok.wong@example.com,Retired,,Facebook,Employment,Closed,"Injured at work, no MC paid. Small firm, no HR."
+1207,Chin Hock Teo,S4775049C,,Blk 539 Woodlands Dr 50 #09-087,88355478,chin.teo@example.com,Self-employed,,MP meet-the-people,Small claims,Closed,"Neighbour's contractor damaged wall, refuses to pay."
+1208,Hui Ling Lim,S2147047H,12/1/1995,Blk 52 Ang Mo Kio Ave 3 #02-277,82180256,hui.lim@example.com,Retired,"$3,200",Facebook,Consumer debt,Open,"Loan from licensed moneylender, disputes amount owed."
+1209,Nurul Ibrahim,T7943964F,20/4/2002,Blk 386 Woodlands Dr 50 #18-154,86354380,nurul.ibrahim@example.com,Unemployed,3000,Family Service Centre,Consumer debt,Closed,"Credit card debt, harassment calls to workplace."
+1210,Chin Hock Teo,T5550316F,1974-10-01,Blk 315 Yishun Ring Rd #19-109,88601981,chin.teo@example.com,Employed,0,,Wills and probate,Closed,"Executor of aunt's estate, unsure of duties."
+1211,Wei Ming Tan,S7285141C,21/4/1959,Blk 176 Jurong West St 52 #06-300,82369611,wei.tan@example.com,Retired,2600,,Employment,Closed,"Unpaid overtime, foreign worker, worried about pass status."
+1212,Shu Fen Ng,S9993625I,1990-12-12,Blk 491 Hougang Ave 8 #04-044,88102993,shu.ng@example.com,Part-time,3800,Walk-in,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1213,Zhi Hao Koh,T2688937B,23-Jul-74,Blk 493 Jurong West St 52 #16-074,83900285,zhi.koh@example.com,Retired,0,Google,Employment,Closed,Dismissed after raising a safety complaint. Has messages.
+1214,Aishah Rahman,T2927284I,1/4/1991,Blk 246 Jurong West St 52 #02-278,83225890,aishah.rahman@example.com,Unemployed,~3000,Google,Tenancy,Closed,"Rental arrears dispute, landlord changed the lock."
+1215,Ravi Das,S6371404A,21-Feb-84,Blk 286 Commonwealth Dr #16-258,81095853,ravi.das@example.com,Retired,3000,,Small claims,Closed,"Deposit for wedding photography, vendor closed down."
+1216,Faizal Osman,T9753737C,1977-06-25,Blk 145 Hougang Ave 8 #06-180,83905007,faizal.osman@example.com,Retired,2600,Friend,Wills and probate,Closed,"Father passed, no will, HDB flat, siblings disagree."
+1217,Meena Subramaniam,S5707987B,1978-09-10,Blk 64 Bedok Nth Rd #20-160,84714924,meena.subramaniam@example.com,Part-time,3800,,Neighbour disputes,Closed,"Noise from upstairs unit, nightly, HDB."
+1218,Chin Hock Teo,T1651897A,17/3/1994,Blk 269 Hougang Ave 8 #15-134,88927207,chin.teo@example.com,Employed,,MP meet-the-people,Small claims,Closed,"Car workshop overcharged, poor repair."
+1219,Nurul Ibrahim,S9110429J,10/8/2003,Blk 313 Commonwealth Dr #07-268,82572885,nurul.ibrahim@example.com,Part-time,2600,Community centre,Consumer debt,Open,"Guarantor for a friend's loan, friend defaulted."
+1220,Mei Ling Goh,T9955201E,1998-08-27,Blk 526 Bishan St 12 #10-185,82381211,mei.goh@example.com,Student,"$1,800",Family Service Centre,Tenancy,Open,Landlord withholding deposit. Verbal tenancy only.
+1221,Ravi Das,S7808128H,1984-01-26,Blk 303 Toa Payoh Lor 1 #19-027,84344164,ravi.das@example.com,Employed,"$3,200",Facebook,Neighbour disputes,Closed,"Noise from upstairs unit, nightly, HDB."
+1222,Anand Rajan,T9291019I,1987-10-23,Blk 613 Jurong West St 52 #06-071,84836794,anand.rajan@example.com,Retired,4200,Previous client,Tenancy,Open,"Eviction notice, 1 week given. Family with young children."
+1223,Zhi Hao Koh,S4387011A,3/3/1980,Blk 96 Bishan St 12 #11-231,89812035,zhi.koh@example.com,Student,3200,,Small claims,Closed,"Neighbour's contractor damaged wall, refuses to pay."
+1224,Priya Nair,S3035677A,7/8/1969,Blk 262 Yishun Ring Rd #16-130,82413891,priya.nair@example.com,Part-time,2600,Facebook,Employment,Closed,Dismissed after raising a safety complaint. Has messages.
+1225,Wei Ming Tan,S3342202J,11/1/1967,Blk 389 Commonwealth Dr #04-009,81949262,wei.tan@example.com,Employed,,Previous client,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1226,Deepa Pillai,S6502951F,8-Jun-83,Blk 99 Commonwealth Dr #12-182,82126330,deepa.pillai@example.com,Student,"$1,800",Friend,Tenancy,Closed,"Sub-tenant, main tenant vanished, agent demanding rent."
+1227,Bernard Tham,S0091034J,11-May-98,Blk 553 Clementi Ave 4 #17-046,89829081,bernard.tham@example.com,Part-time,n/a,,Employment,Closed,"Unpaid overtime, foreign worker, worried about pass status."
+1228,Chin Hock Teo,S6067204F,,Blk 638 Commonwealth Dr #18-194,86664244,chin.teo@example.com,Part-time,n/a,Facebook,Wills and probate,Open,"Executor of aunt's estate, unsure of duties."
+1229,Wei Ming Tan,S5932757C,2001-10-19,Blk 321 Tampines St 41 #13-116,82144758,wei.tan@example.com,Student,2600,,Employment,Open,Salary unpaid for two months. Employer not responding.
+1230,Jia Hao Lee,T1166751C,1967-03-14,Blk 659 Clementi Ave 4 #20-294,84575683,jia.lee@example.com,Unemployed,about 2k,Facebook,Wills and probate,Closed,"Small estate, bank refuses to release without grant."
+1231,Aishah Rahman,S0835512D,1965-08-02,Blk 344 Jurong West St 52 #17-092,89493190,aishah.rahman@example.com,Self-employed,0,,Wills and probate,Closed,Needs LPA for elderly mother with dementia.
+1232,Shu Fen Ng,S4805359B,1961-04-11,Blk 391 Jurong West St 52 #16-020,87521251,shu.ng@example.com,Student,,Family Service Centre,Neighbour disputes,Closed,"Shared corridor blocked with items, fire hazard."
+1233,Vijay Iyer,S1197499G,,Blk 609 Toa Payoh Lor 1 #13-176,82521917,vijay.iyer@example.com,Unemployed,3000,Walk-in,Small claims,Open,"Neighbour's contractor damaged wall, refuses to pay."
+1234,Deepa Pillai,S2527252F,12/12/1970,Blk 672 Bishan St 12 #02-185,81566862,deepa.pillai@example.com,Student,2600,,Employment,Open,"Unpaid overtime, foreign worker, worried about pass status."
+1235,Xin Yi Yeo,T4443517Z,26/8/1987,Blk 201 Hougang Ave 8 #14-106,89563568,xin.yeo@example.com,Employed,4200,Facebook,Consumer debt,Open,"Loan from licensed moneylender, disputes amount owed."
+1236,Mei Ling Goh,T1381010H,1996-03-18,Blk 251 Bishan St 12 #06-232,87610445,mei.goh@example.com,Student,unknown,Facebook,Employment,Open,Dismissed after raising a safety complaint. Has messages.
+1237,Pei Shan Sim,T9790037G,14-Aug-85,Blk 230 Woodlands Dr 50 #02-227,82414524,pei.sim@example.com,Retired,1500,Friend,Wills and probate,Open,"Father passed, no will, HDB flat, siblings disagree."
+1238,Wei Ming Tan,S1468618B,26-Dec-85,Blk 533 Hougang Ave 8 #04-175,83638328,wei.tan@example.com,Employed,,,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1239,Zhi Hao Koh,S7370168B,15/2/1982,Blk 239 Telok Blangah Cres #12-018,81975533,zhi.koh@example.com,Employed,0,,Employment,Closed,Claims constructive dismissal. Wants to know options.
+1240,Faizal Osman,T5072130H,1/6/1956,Blk 117 Yishun Ring Rd #05-114,85022586,faizal.osman@example.com,Part-time,unknown,MP meet-the-people,Wills and probate,Closed,"Small estate, bank refuses to release without grant."
+1241,Faizal Osman,T8756870D,1967-08-05,Blk 205 Yishun Ring Rd #17-233,87188995,faizal.osman@example.com,Self-employed,~3000,MP meet-the-people,Employment,Closed,"Unpaid overtime, foreign worker, worried about pass status."
+1242,Bernard Tham,T0497474G,1965-09-10,Blk 382 Clementi Ave 4 #04-251,87711243,bernard.tham@example.com,Employed,3800,Walk-in,Small claims,Closed,"Online purchase never delivered, seller unreachable."
+1243,Ravi Das,S8676849J,16/4/1958,Blk 597 Commonwealth Dr #16-275,86887326,ravi.das@example.com,Student,3800,Facebook,Employment,Open,Salary unpaid for two months. Employer not responding.
+1244,Faizal Osman,S4775892A,1984-08-01,Blk 644 Bedok Nth Rd #10-116,86759161,faizal.osman@example.com,Employed,0,,Consumer debt,Closed,"Guarantor for a friend's loan, friend defaulted."
+1245,Marcus DCruz,S7558385A,12-Jul-91,Blk 183 Woodlands Dr 50 #17-185,85230467,marcus.dcruz@example.com,Retired,4200,Community centre,Small claims,Open,"Online purchase never delivered, seller unreachable."
+1246,Priya Nair,S1188461H,1990-05-26,Blk 288 Clementi Ave 4 #20-191,81651144,priya.nair@example.com,Part-time,"$1,800",Previous client,Consumer debt,Open,"Renovation contractor took deposit, work not done."
+1247,Jia Hao Lee,S8329754H,26/10/1960,Blk 550 Bedok Nth Rd #07-243,87356341,jia.lee@example.com,Part-time,"$3,200",Friend,Employment,Closed,"Injured at work, no MC paid. Small firm, no HR."
+1248,Chin Hock Teo,S1394877C,1968-03-12,Blk 650 Bedok Nth Rd #13-082,86758492,chin.teo@example.com,Retired,3800,MP meet-the-people,Employment,Closed,Claims constructive dismissal. Wants to know options.
+1249,Jia Hao Lee,S8353703C,1979-06-08,Blk 266 Commonwealth Dr #13-271,87403731,jia.lee@example.com,Self-employed,3800,Google,Small claims,Closed,"Online purchase never delivered, seller unreachable."
+1250,Farah Karim,S7131646D,22-Apr-66,Blk 310 Bedok Nth Rd #03-067,82142746,farah.karim@example.com,Retired,4200,,Consumer debt,Closed,"Guarantor for a friend's loan, friend defaulted."
+1251,Shu Fen Ng,T9774618D,1999-04-27,Blk 284 Woodlands Dr 50 #06-212,83136981,shu.ng@example.com,Part-time,"$3,200",Family Service Centre,Unassigned,Closed,Not sure we can help - flag for manager.
+1252,Zhi Hao Koh,S8047486D,14/2/1990,Blk 213 Toa Payoh Lor 1 #10-170,84326383,zhi.koh@example.com,Retired,3000,Walk-in,Wills and probate,Open,"Small estate, bank refuses to release without grant."
+1253,Xin Yi Yeo,T4680907A,1984-10-05,Blk 143 Dover Rd #13-009,82793313,xin.yeo@example.com,Employed,1500,Family Service Centre,Neighbour disputes,Open,"Shared corridor blocked with items, fire hazard."
+1254,Farah Karim,T4879379G,1955-11-11,Blk 261 Woodlands Dr 50 #07-069,81190603,farah.karim@example.com,Employed,2200,,Employment,Closed,"Unpaid overtime, foreign worker, worried about pass status."
+1255,Faizal Osman,T5884141H,1/7/1988,Blk 291 Telok Blangah Cres #12-248,84600393,faizal.osman@example.com,Unemployed,4200,MP meet-the-people,Tenancy,Closed,"Sub-tenant, main tenant vanished, agent demanding rent."
+1256,Ravi Das,T7704741G,1-Nov-78,Blk 394 Telok Blangah Cres #20-153,86318571,ravi.das@example.com,Unemployed,"$2,500",,Unassigned,Closed,"Walk-in, complex family matter, referred elsewhere?"
+1257,Wei Ming Tan,S2345881F,11/9/1988,Blk 73 Dover Rd #19-292,82433282,wei.tan@example.com,Student,1500,Walk-in,Consumer debt,Closed,"Renovation contractor took deposit, work not done."
+1258,Wei Ming Tan,T8140602Z,,Blk 111 Yishun Ring Rd #06-289,84515143,wei.tan@example.com,Part-time,n/a,,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1259,Danial Latiff,T0609010A,7/5/1989,Blk 135 Bedok Nth Rd #05-126,83075773,danial.latiff@example.com,Retired,,Facebook,Employment,Open,Claims constructive dismissal. Wants to know options.
+1260,Kavitha Menon,S5572780C,6-Feb-94,Blk 351 Bedok Nth Rd #20-031,85234748,kavitha.menon@example.com,Self-employed,,,Consumer debt,Closed,"Credit card debt, harassment calls to workplace."
+1261,Hui Ling Lim,S2296968B,26/5/2003,Blk 442 Woodlands Dr 50 #11-217,87401549,hui.lim@example.com,Unemployed,0,Walk-in,Consumer debt,Closed,"Guarantor for a friend's loan, friend defaulted."
+1262,Yong Sheng Chua,S7105532A,1978-06-24,Blk 134 Toa Payoh Lor 1 #18-052,85245596,yong.chua@example.com,Retired,unknown,Friend,Neighbour disputes,Open,"Shared corridor blocked with items, fire hazard."
+1263,Priya Nair,T4885636I,28/2/1986,Blk 315 Clementi Ave 4 #15-023,83191558,priya.nair@example.com,Retired,4200,Family Service Centre,Employment,Open,Salary unpaid for two months. Employer not responding.
+1264,Kok Wai Wong,T9271059F,23/10/1978,Blk 674 Dover Rd #06-216,81485255,kok.wong@example.com,Part-time,,,Consumer debt,Closed,"Loan from licensed moneylender, disputes amount owed."
+1265,Danial Latiff,T9381178C,1970-10-09,Blk 369 Clementi Ave 4 #11-193,84161765,danial.latiff@example.com,Employed,3200,Friend,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1266,Pei Shan Sim,S6259041G,22-Aug-66,Blk 55 Bishan St 12 #11-159,81360396,pei.sim@example.com,Unemployed,,Walk-in,Wills and probate,Closed,Needs LPA for elderly mother with dementia.
+1267,Siti Hassan,S3892547Z,1997-12-06,Blk 260 Tampines St 41 #08-082,85758652,siti.hassan@example.com,Part-time,"$3,200",,Small claims,Closed,"Neighbour's contractor damaged wall, refuses to pay."
+1268,Bernard Tham,T9588885H,7/12/2003,Blk 415 Telok Blangah Cres #20-042,82388430,bernard.tham@example.com,Unemployed,3000,Previous client,Small claims,Closed,"Online purchase never delivered, seller unreachable."
+1269,Siti Hassan,S2085367E,1976-08-02,Blk 233 Ang Mo Kio Ave 3 #19-085,81796651,siti.hassan@example.com,Student,about 2k,,Tenancy,Closed,"Rental arrears dispute, landlord changed the lock."
+1270,Zhi Hao Koh,S2068626F,1963-04-20,Blk 219 Dover Rd #18-113,82009297,zhi.koh@example.com,Employed,1800,Community centre,Wills and probate,Closed,Needs LPA for elderly mother with dementia.
+1271,Wei Ming Tan,T7122989J,28/8/2002,Blk 310 Bedok Nth Rd #10-258,89352117,wei.tan@example.com,Part-time,3200,Facebook,Tenancy,Closed,"Sub-tenant, main tenant vanished, agent demanding rent."
+1272,Anand Rajan,T8042343Z,1972-10-26,Blk 348 Bedok Nth Rd #13-247,89791199,anand.rajan@example.com,Self-employed,3000,Google,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1273,Li Ying Ong,S5377890A,4/7/1971,Blk 158 Bishan St 12 #07-020,83402401,li.ong@example.com,Unemployed,unknown,,Employment,Closed,"Unpaid overtime, foreign worker, worried about pass status."
+1274,Mei Ling Goh,S6442151E,1981-09-07,Blk 365 Telok Blangah Cres #08-016,83993893,mei.goh@example.com,Employed,,Community centre,Tenancy,Closed,"Sub-tenant, main tenant vanished, agent demanding rent."
+1275,Bernard Tham,T0016844H,1/2/1961,Blk 304 Ang Mo Kio Ave 3 #08-256,84273647,bernard.tham@example.com,Employed,0,,Wills and probate,Closed,Needs LPA for elderly mother with dementia.
+1276,Marcus DCruz,S7187257I,20/8/1994,Blk 168 Tampines St 41 #10-240,89930925,marcus.dcruz@example.com,Employed,"$3,200",,Tenancy,Open,"Rental arrears dispute, landlord changed the lock."
+1277,Mei Ling Goh,S2042804H,1977-07-13,Blk 266 Toa Payoh Lor 1 #17-223,83229530,mei.goh@example.com,Employed,0,Previous client,Small claims,Closed,"Online purchase never delivered, seller unreachable."
+1278,Chin Hock Teo,S8441324G,23/9/1958,Blk 252 Dover Rd #10-028,89538643,chin.teo@example.com,Self-employed,3200,Friend,Employment,Closed,"Injured at work, no MC paid. Small firm, no HR."
+1279,Pei Shan Sim,S5826380B,1991-02-14,Blk 331 Hougang Ave 8 #05-225,86019399,pei.sim@example.com,Unemployed,2600,,Wills and probate,Closed,"Small estate, bank refuses to release without grant."
+1280,Shu Fen Ng,S3848441B,21-Feb-70,Blk 6 Bishan St 12 #07-148,89819492,shu.ng@example.com,Unemployed,1800,,Consumer debt,Closed,"Credit card debt, harassment calls to workplace."
+1281,Danial Latiff,T7040630Z,1997-11-22,Blk 664 Tampines St 41 #13-283,81968618,danial.latiff@example.com,Student,unknown,Previous client,Small claims,Open,"Online purchase never delivered, seller unreachable."
+1282,Kavitha Menon,S7110953C,,Blk 67 Tampines St 41 #10-179,82316963,kavitha.menon@example.com,Unemployed,~3000,Facebook,Wills and probate,Closed,Needs LPA for elderly mother with dementia.
+1283,Pei Shan Sim,T3771108H,5-Nov-77,Blk 399 Commonwealth Dr #18-105,88740736,pei.sim@example.com,Employed,,,Employment,Closed,Claims constructive dismissal. Wants to know options.
+1284,Pei Shan Sim,T9236029H,1960-08-09,Blk 535 Toa Payoh Lor 1 #20-254,87175366,pei.sim@example.com,Self-employed,,Family Service Centre,Employment,Closed,Claims constructive dismissal. Wants to know options.
+1285,Danial Latiff,S5064847D,1990-07-21,Blk 642 Commonwealth Dr #12-239,84914116,danial.latiff@example.com,Employed,1800,Walk-in,Tenancy,Closed,"Rental arrears dispute, landlord changed the lock."
+1286,Zhi Hao Koh,S3607008A,,Blk 163 Commonwealth Dr #10-068,88701454,zhi.koh@example.com,Retired,,Community centre,Tenancy,Open,"Eviction notice, 1 week given. Family with young children."
+1287,Kok Wai Wong,T8121172C,,Blk 14 Yishun Ring Rd #11-023,85691991,kok.wong@example.com,Unemployed,3000,Family Service Centre,Tenancy,Closed,"Aircon and water heater broken 3 months, landlord ignores."
+1288,Bernard Tham,T2473617H,2/9/1958,Blk 440 Hougang Ave 8 #20-182,84315682,bernard.tham@example.com,Part-time,"$2,500",,Consumer debt,Closed,"Bought faulty phone, shop refuses refund."
+1289,Farah Karim,S9721734I,17-Jan-77,Blk 540 Bedok Nth Rd #02-199,82157467,farah.karim@example.com,Employed,3000,Friend,Tenancy,Closed,"Sub-tenant, main tenant vanished, agent demanding rent."
+1290,Danial Latiff,S6201125I,1999-12-18,Blk 109 Woodlands Dr 50 #17-065,87163435,danial.latiff@example.com,Self-employed,"$2,500",,Tenancy,Open,"Eviction notice, 1 week given. Family with young children."
+1291,Hui Ling Lim,T3198705C,1999-07-24,Blk 232 Bedok Nth Rd #18-028,84303677,hui.lim@example.com,Self-employed,2200,MP meet-the-people,Employment,Open,Claims constructive dismissal. Wants to know options.
+1292,Farah Karim,T0474648J,1980-01-22,Blk 515 Toa Payoh Lor 1 #04-040,87031342,farah.karim@example.com,Employed,4200,Friend,Tenancy,Closed,"Rental arrears dispute, landlord changed the lock."
+1293,Ravi Das,S8253549C,9/7/1992,Blk 138 Hougang Ave 8 #11-285,84954285,ravi.das@example.com,Unemployed,3200,MP meet-the-people,Employment,Open,Dismissed after raising a safety complaint. Has messages.
+1294,Li Ying Ong,S3837092F,6/2/1999,Blk 26 Hougang Ave 8 #05-132,83172452,li.ong@example.com,Unemployed,2200,Walk-in,Consumer debt,Open,"Bought faulty phone, shop refuses refund."
+1295,Xin Yi Yeo,T1981753F,1985-07-23,Blk 331 Hougang Ave 8 #20-226,86127489,xin.yeo@example.com,Unemployed,3800,,Consumer debt,Open,"Renovation contractor took deposit, work not done."
+1296,Vijay Iyer,S6400733F,1976-03-17,Blk 399 Bedok Nth Rd #04-163,85232819,vijay.iyer@example.com,Self-employed,0,,Neighbour disputes,Open,"Shared corridor blocked with items, fire hazard."
+1297,Jia Hao Lee,S1784880B,,Blk 19 Woodlands Dr 50 #16-084,81735481,jia.lee@example.com,Unemployed,0,Previous client,Tenancy,Open,"Aircon and water heater broken 3 months, landlord ignores."
+1298,Hui Ling Lim,S0741788Z,,Blk 653 Jurong West St 52 #12-243,88383356,hui.lim@example.com,Self-employed,"$2,500",Walk-in,Consumer debt,Open,"Credit card debt, harassment calls to workplace."
+1299,Bernard Tham,S8300112B,1972-02-16,Blk 244 Clementi Ave 4 #06-200,87033811,bernard.tham@example.com,Retired,3200,Facebook,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1300,Xin Yi Yeo,T3437906F,6-Dec-70,Blk 3 Telok Blangah Cres #14-119,82018831,xin.yeo@example.com,Retired,3200,Google,Unassigned,Closed,"Walk-in, complex family matter, referred elsewhere?"
+1301,Pei Shan Sim,T0182803A,1996-11-27,Blk 175 Tampines St 41 #12-027,83891732,pei.sim@example.com,Student,n/a,,Consumer debt,Closed,"Guarantor for a friend's loan, friend defaulted."
+1302,Marcus DCruz,T4811350J,17/11/1967,Blk 394 Woodlands Dr 50 #02-281,85564677,marcus.dcruz@example.com,Employed,2200,MP meet-the-people,Unassigned,Closed,Not sure we can help - flag for manager.
+1303,Kavitha Menon,S4975333F,1959-05-02,Blk 290 Clementi Ave 4 #11-077,83820420,kavitha.menon@example.com,Self-employed,0,,Tenancy,Open,Landlord withholding deposit. Verbal tenancy only.
+1304,Siti Hassan,T8338188Z,2/12/1958,Blk 483 Yishun Ring Rd #17-228,88235183,siti.hassan@example.com,Self-employed,n/a,,Small claims,Closed,"Deposit for wedding photography, vendor closed down."
+1305,Ravi Das,T7400334F,,Blk 548 Hougang Ave 8 #19-016,86005304,ravi.das@example.com,Student,,Previous client,Neighbour disputes,Closed,"Smoking at corridor, children asthmatic."
+1306,Ravi Das,S4003211I,12/12/1966,Blk 70 Yishun Ring Rd #13-212,82184575,ravi.das@example.com,Unemployed,3200,Google,Unassigned,Open,Not sure we can help - flag for manager.
+1307,Li Ying Ong,T6609878I,14/10/1972,Blk 573 Toa Payoh Lor 1 #04-038,81873763,li.ong@example.com,Student,3800,,Neighbour disputes,Closed,"Shared corridor blocked with items, fire hazard."
+1308,Priya Nair,S6472072I,18/3/1992,Blk 32 Hougang Ave 8 #04-218,82500378,priya.nair@example.com,Employed,3800,Walk-in,Employment,Closed,Claims constructive dismissal. Wants to know options.
+1309,Priya Nair,T1031187I,1-Aug-67,Blk 191 Clementi Ave 4 #12-143,87463124,priya.nair@example.com,Self-employed,3000,MP meet-the-people,Consumer debt,Closed,"Guarantor for a friend's loan, friend defaulted."
+1310,Meena Subramaniam,T1501674I,22/10/1979,Blk 357 Commonwealth Dr #19-240,87648391,meena.subramaniam@example.com,Retired,2600,Previous client,Small claims,Closed,"Online purchase never delivered, seller unreachable."
+1311,Bernard Tham,S1195748J,1973-03-15,Blk 474 Woodlands Dr 50 #17-257,84111853,bernard.tham@example.com,Retired,,Facebook,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1312,Farah Karim,T5406923F,1972-12-05,Blk 361 Yishun Ring Rd #02-165,86093928,farah.karim@example.com,Retired,1500,,Consumer debt,Closed,"Renovation contractor took deposit, work not done."
+1313,Jia Hao Lee,T3115417A,27-Feb-80,Blk 91 Ang Mo Kio Ave 3 #19-036,83684444,jia.lee@example.com,Retired,unknown,Google,Tenancy,Closed,"Eviction notice, 1 week given. Family with young children."
+1314,Priya Nair,T7183473H,25/6/1981,Blk 278 Clementi Ave 4 #03-131,86447385,priya.nair@example.com,Part-time,0,Google,Consumer debt,Closed,"Bought faulty phone, shop refuses refund."
+1315,Ravi Das,S2663003B,10/11/1985,Blk 583 Jurong West St 52 #19-079,81917868,ravi.das@example.com,Unemployed,,Facebook,Wills and probate,Closed,Needs LPA for elderly mother with dementia.
+1316,Pei Shan Sim,S2894434A,1984-09-28,Blk 243 Commonwealth Dr #12-220,88379655,pei.sim@example.com,Part-time,"$2,500",Friend,Tenancy,Open,"Sub-tenant, main tenant vanished, agent demanding rent."
+1317,Anand Rajan,S0990039C,25/2/1986,Blk 62 Jurong West St 52 #07-140,81276192,anand.rajan@example.com,Self-employed,0,Family Service Centre,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1318,Jia Hao Lee,T2805477A,1995-02-21,Blk 144 Yishun Ring Rd #16-277,85714929,jia.lee@example.com,Self-employed,"$1,800",,Consumer debt,Closed,"Guarantor for a friend's loan, friend defaulted."
+1319,Pei Shan Sim,T4667197Z,1957-08-08,Blk 43 Woodlands Dr 50 #13-171,85322228,pei.sim@example.com,Unemployed,,,Tenancy,Closed,"Eviction notice, 1 week given. Family with young children."
+1320,Bernard Tham,T9159775I,28/7/1967,Blk 117 Commonwealth Dr #10-124,88077685,bernard.tham@example.com,Retired,"$2,500",,Unassigned,Open,"Immigration question - out of scope, note for records."
+1321,Iskandar Salleh,S7801094F,5-Jun-78,Blk 577 Toa Payoh Lor 1 #20-062,89672567,iskandar.salleh@example.com,Self-employed,"$2,500",,Employment,Closed,Dismissed after raising a safety complaint. Has messages.
+1322,Chin Hock Teo,S8087333D,8/12/1969,Blk 551 Telok Blangah Cres #11-129,85555406,chin.teo@example.com,Employed,3200,Google,Small claims,Closed,"Deposit for wedding photography, vendor closed down."
+1323,Siti Hassan,S6726094Z,23-Mar-56,Blk 647 Bedok Nth Rd #12-150,88211716,siti.hassan@example.com,Retired,0,Family Service Centre,Wills and probate,Closed,"Executor of aunt's estate, unsure of duties."
+1324,Pei Shan Sim,S8186788F,9/7/1965,Blk 134 Dover Rd #13-189,88884763,pei.sim@example.com,Self-employed,4200,Walk-in,Unassigned,Open,Not sure we can help - flag for manager.
+1325,Chin Hock Teo,T5168406F,1955-09-06,Blk 367 Bedok Nth Rd #11-011,86646270,chin.teo@example.com,Part-time,"$2,500",MP meet-the-people,Wills and probate,Open,Needs LPA for elderly mother with dementia.
+1326,Xin Yi Yeo,T8081208C,2/6/1975,Blk 9 Telok Blangah Cres #13-082,83098136,xin.yeo@example.com,Self-employed,3800,Walk-in,Employment,Closed,"Injured at work, no MC paid. Small firm, no HR."
+1327,Hui Ling Lim,T9643248F,1965-03-12,Blk 82 Commonwealth Dr #08-228,89451322,hui.lim@example.com,Part-time,,,Employment,Closed,Claims constructive dismissal. Wants to know options.
+1328,Jia Hao Lee,T7749024C,1981-07-09,Blk 162 Jurong West St 52 #05-109,86052743,jia.lee@example.com,Unemployed,"$3,200",Walk-in,Tenancy,Closed,"Rental arrears dispute, landlord changed the lock."
+1329,Zhi Hao Koh,T3930402D,1998-01-18,Blk 132 Tampines St 41 #10-091,84363560,zhi.koh@example.com,Self-employed,,,Wills and probate,Closed,Needs LPA for elderly mother with dementia.
+1330,Jia Hao Lee,S0430493F,1964-01-26,Blk 221 Ang Mo Kio Ave 3 #06-068,81173133,jia.lee@example.com,Employed,unknown,,Consumer debt,Closed,"Credit card debt, harassment calls to workplace."
+1331,Li Ying Ong,S2344205F,18-Jul-85,Blk 440 Yishun Ring Rd #04-269,85649152,li.ong@example.com,Student,"$2,500",Community centre,Consumer debt,Open,"Guarantor for a friend's loan, friend defaulted."
+1332,Danial Latiff,S6999354E,1965-06-07,Blk 598 Ang Mo Kio Ave 3 #16-242,87069747,danial.latiff@example.com,Unemployed,2200,Walk-in,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1333,Shu Fen Ng,T3849130E,1974-03-11,Blk 507 Tampines St 41 #16-152,83761344,shu.ng@example.com,Employed,3000,Walk-in,Employment,Open,Salary unpaid for two months. Employer not responding.
+1334,Kavitha Menon,T5176851J,12/5/1993,Blk 678 Bedok Nth Rd #10-091,86075046,kavitha.menon@example.com,Student,about 2k,Facebook,Small claims,Closed,"Car workshop overcharged, poor repair."
+1335,Pei Shan Sim,T2515161J,23/6/1972,Blk 626 Tampines St 41 #15-272,83521226,pei.sim@example.com,Retired,1500,Family Service Centre,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1336,Faizal Osman,T2856779I,23/6/2002,Blk 219 Telok Blangah Cres #06-106,83988677,faizal.osman@example.com,Student,"$1,800",Community centre,Neighbour disputes,Closed,Dispute over shared wall renovation.
+1337,Jia Hao Lee,S2786824J,27/10/1987,Blk 641 Ang Mo Kio Ave 3 #12-276,81465278,jia.lee@example.com,Employed,n/a,,Consumer debt,Open,"Bought faulty phone, shop refuses refund."
+1338,Farah Karim,T2942233Z,2003-07-06,Blk 144 Clementi Ave 4 #07-029,87767236,farah.karim@example.com,Self-employed,2600,,Neighbour disputes,Closed,"Noise from upstairs unit, nightly, HDB."
+1339,Xin Yi Yeo,T1320183E,12-Dec-81,Blk 496 Hougang Ave 8 #16-139,88077722,xin.yeo@example.com,Self-employed,"$2,500",Previous client,Consumer debt,Closed,"Loan from licensed moneylender, disputes amount owed."
+1340,Farah Karim,S4513069A,1990-05-15,Blk 235 Tampines St 41 #10-091,88643591,farah.karim@example.com,Student,0,Google,Consumer debt,Open,"Guarantor for a friend's loan, friend defaulted."
+1341,Ravi Das,T6551621J,14/12/1997,Blk 383 Ang Mo Kio Ave 3 #08-143,89869444,ravi.das@example.com,Self-employed,3800,,Wills and probate,Open,"Father passed, no will, HDB flat, siblings disagree."
+1342,Nurul Ibrahim,S8473038B,8/2/1967,Blk 107 Commonwealth Dr #03-005,84763076,nurul.ibrahim@example.com,Student,2600,Friend,Wills and probate,Open,"Father passed, no will, HDB flat, siblings disagree."
+1343,Li Ying Ong,S9979843G,1958-12-06,Blk 147 Woodlands Dr 50 #02-150,81217006,li.ong@example.com,Retired,"$3,200",,Neighbour disputes,Closed,Dispute over shared wall renovation.
+1344,Marcus DCruz,T7613106D,1984-12-12,Blk 604 Commonwealth Dr #13-067,81133085,marcus.dcruz@example.com,Student,,Facebook,Small claims,Open,"Deposit for wedding photography, vendor closed down."
+1345,Priya Nair,T3856549F,4/3/2000,Blk 349 Yishun Ring Rd #19-135,84324909,priya.nair@example.com,Part-time,1500,Google,Neighbour disputes,Open,"Shared corridor blocked with items, fire hazard."
+1346,Yong Sheng Chua,S2703115I,12/7/1991,Blk 590 Toa Payoh Lor 1 #07-034,87457160,yong.chua@example.com,Retired,"$3,200",,Employment,Closed,"Injured at work, no MC paid. Small firm, no HR."
+1347,Mei Ling Goh,T9898699D,17/11/1956,Blk 260 Hougang Ave 8 #03-039,82372705,mei.goh@example.com,Retired,unknown,,Tenancy,Closed,"Sub-tenant, main tenant vanished, agent demanding rent."
+1348,Pei Shan Sim,T4524900J,1964-11-19,Blk 698 Clementi Ave 4 #08-098,87242213,pei.sim@example.com,Student,4200,Family Service Centre,Employment,Closed,"Unpaid overtime, foreign worker, worried about pass status."
+1349,Mei Ling Goh,T8535390J,1997-07-27,Blk 645 Ang Mo Kio Ave 3 #08-222,85761097,mei.goh@example.com,Self-employed,~3000,,Consumer debt,Open,"Bought faulty phone, shop refuses refund."
+1350,Hui Ling Lim,S0290549I,19-May-81,Blk 51 Hougang Ave 8 #18-164,83240073,hui.lim@example.com,Part-time,4200,Family Service Centre,Neighbour disputes,Closed,Dispute over shared wall renovation.
+1351,Jia Hao Lee,S7069874G,12/4/1988,Blk 585 Tampines St 41 #08-128,88479347,jia.lee@example.com,Self-employed,1800,Google,Small claims,Closed,"Deposit for wedding photography, vendor closed down."
+1352,Mei Ling Goh,S1917556Z,1993-11-20,Blk 685 Bedok Nth Rd #14-141,81526395,mei.goh@example.com,Part-time,3800,MP meet-the-people,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1353,Zhi Hao Koh,T2645417C,19-Nov-61,Blk 434 Tampines St 41 #16-292,81960439,zhi.koh@example.com,Self-employed,2200,Facebook,Wills and probate,Closed,Needs LPA for elderly mother with dementia.
+1354,Farah Karim,T9263569A,14/3/1956,Blk 374 Yishun Ring Rd #17-067,85100588,farah.karim@example.com,Employed,"$1,800",Walk-in,Tenancy,Open,"Aircon and water heater broken 3 months, landlord ignores."
+1355,Li Ying Ong,T7816336D,1963-11-20,Blk 462 Telok Blangah Cres #19-251,82991846,li.ong@example.com,Unemployed,3000,Community centre,Consumer debt,Closed,"Renovation contractor took deposit, work not done."
+1356,Faizal Osman,T3507675D,,Blk 434 Jurong West St 52 #14-177,84460987,faizal.osman@example.com,Student,"$2,500",,Neighbour disputes,Closed,"Noise from upstairs unit, nightly, HDB."
+1357,Elaine Pereira,T8585168I,1962-09-27,Blk 610 Bishan St 12 #17-002,86392068,elaine.pereira@example.com,Part-time,n/a,,Employment,Closed,"Injured at work, no MC paid. Small firm, no HR."
+1358,Xin Yi Yeo,S1745929D,5-May-82,Blk 274 Ang Mo Kio Ave 3 #07-292,82526471,xin.yeo@example.com,Unemployed,"$3,200",Walk-in,Employment,Open,Salary unpaid for two months. Employer not responding.
+1359,Wei Ming Tan,S5536731B,28-May-73,Blk 623 Toa Payoh Lor 1 #06-146,88219683,wei.tan@example.com,Part-time,"$1,800",,Tenancy,Closed,"Sub-tenant, main tenant vanished, agent demanding rent."
+1360,Aishah Rahman,T2069491E,25-Apr-62,Blk 318 Ang Mo Kio Ave 3 #17-171,86428182,aishah.rahman@example.com,Student,,Previous client,Consumer debt,Open,"Guarantor for a friend's loan, friend defaulted."
+1361,Li Ying Ong,S4379749H,13-Nov-62,Blk 687 Woodlands Dr 50 #07-026,81916274,li.ong@example.com,Retired,unknown,Google,Tenancy,Closed,"Eviction notice, 1 week given. Family with young children."
+1362,Anand Rajan,S4639876D,17-Mar-69,Blk 533 Woodlands Dr 50 #09-246,84959862,anand.rajan@example.com,Part-time,1500,Facebook,Tenancy,Closed,"Sub-tenant, main tenant vanished, agent demanding rent."
+1363,Priya Nair,S5334398D,2-Aug-89,Blk 360 Toa Payoh Lor 1 #18-197,81872509,priya.nair@example.com,Unemployed,"$2,500",Facebook,Tenancy,Open,"Eviction notice, 1 week given. Family with young children."
+1364,Vijay Iyer,T8332238I,1975-09-04,Blk 336 Clementi Ave 4 #12-124,81927739,vijay.iyer@example.com,Retired,1800,Google,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1365,Marcus DCruz,T3576178H,4-Mar-61,Blk 272 Jurong West St 52 #10-291,84438791,marcus.dcruz@example.com,Employed,3200,Previous client,Employment,Open,Claims constructive dismissal. Wants to know options.
+1366,Anand Rajan,S1647883G,22/9/1975,Blk 335 Toa Payoh Lor 1 #18-061,86022669,anand.rajan@example.com,Self-employed,4200,,Employment,Closed,"Injured at work, no MC paid. Small firm, no HR."
+1367,Pei Shan Sim,T5735668J,6/4/1992,Blk 176 Ang Mo Kio Ave 3 #14-156,87330810,pei.sim@example.com,Retired,unknown,Previous client,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1368,Jia Hao Lee,S8200402C,14/5/2001,Blk 436 Dover Rd #19-195,83748749,jia.lee@example.com,Employed,1800,MP meet-the-people,Consumer debt,Open,"Credit card debt, harassment calls to workplace."
+1369,Wei Ming Tan,T5435499Z,25/9/1995,Blk 23 Telok Blangah Cres #11-126,84176864,wei.tan@example.com,Employed,n/a,Friend,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1370,Zhi Hao Koh,S7711467I,1981-12-20,Blk 112 Ang Mo Kio Ave 3 #13-009,82466451,zhi.koh@example.com,Employed,2600,MP meet-the-people,Consumer debt,Open,"Loan from licensed moneylender, disputes amount owed."
+1371,Priya Nair,T2945488E,24/10/1983,Blk 509 Commonwealth Dr #16-116,85380894,priya.nair@example.com,Retired,1800,Community centre,Employment,Closed,Claims constructive dismissal. Wants to know options.
+1372,Li Ying Ong,S9902131I,,Blk 196 Ang Mo Kio Ave 3 #07-219,87547280,li.ong@example.com,Retired,4200,Google,Tenancy,Open,Landlord withholding deposit. Verbal tenancy only.
+1373,Meena Subramaniam,T9324781E,3/4/1988,Blk 224 Toa Payoh Lor 1 #02-149,82466620,meena.subramaniam@example.com,Student,unknown,Walk-in,Tenancy,Open,Landlord withholding deposit. Verbal tenancy only.
+1374,Chin Hock Teo,S0660119H,19/9/1994,Blk 453 Woodlands Dr 50 #20-140,84411148,chin.teo@example.com,Retired,0,Walk-in,Employment,Open,"Unpaid overtime, foreign worker, worried about pass status."
+1375,Pei Shan Sim,T9914567I,6-Apr-72,Blk 416 Yishun Ring Rd #20-210,87287635,pei.sim@example.com,Employed,1500,Family Service Centre,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1376,Anand Rajan,S9260196H,1970-01-08,Blk 509 Hougang Ave 8 #19-174,81799716,anand.rajan@example.com,Unemployed,3000,Walk-in,Tenancy,Closed,"Eviction notice, 1 week given. Family with young children."
+1377,Wei Ming Tan,S6828933J,12/9/1983,Blk 658 Dover Rd #03-029,83780641,wei.tan@example.com,Part-time,2600,,Tenancy,Closed,"Eviction notice, 1 week given. Family with young children."
+1378,Kavitha Menon,S1676538H,27-Jun-01,Blk 52 Toa Payoh Lor 1 #13-006,84474066,kavitha.menon@example.com,Student,~3000,Walk-in,Tenancy,Closed,"Sub-tenant, main tenant vanished, agent demanding rent."
+1379,Bernard Tham,T1278048A,22-Jul-92,Blk 314 Hougang Ave 8 #12-297,84010880,bernard.tham@example.com,Unemployed,"$3,200",Facebook,Unassigned,Open,"Immigration question - out of scope, note for records."
+1380,Chin Hock Teo,S6936461Z,2/4/2003,Blk 245 Bishan St 12 #14-106,89376611,chin.teo@example.com,Retired,1800,Friend,Small claims,Open,"Online purchase never delivered, seller unreachable."
+1381,Deepa Pillai,T1601795I,13/10/1984,Blk 375 Tampines St 41 #13-280,84037431,deepa.pillai@example.com,Self-employed,,Community centre,Employment,Open,Salary unpaid for two months. Employer not responding.
+1382,Yong Sheng Chua,T7681108F,1-Nov-63,Blk 467 Commonwealth Dr #15-165,81104136,yong.chua@example.com,Self-employed,2200,Family Service Centre,Consumer debt,Closed,"Guarantor for a friend's loan, friend defaulted."
+1383,Jia Hao Lee,S5843557C,1976-03-03,Blk 49 Hougang Ave 8 #11-032,86195851,jia.lee@example.com,Self-employed,n/a,,Neighbour disputes,Open,"Noise from upstairs unit, nightly, HDB."
+1384,Danial Latiff,S1300363I,4-Mar-87,Blk 361 Commonwealth Dr #04-218,86175566,danial.latiff@example.com,Employed,1800,,Wills and probate,Open,"Executor of aunt's estate, unsure of duties."
+1385,Chin Hock Teo,T5075320E,1989-04-22,Blk 111 Commonwealth Dr #17-219,84293107,chin.teo@example.com,Unemployed,,Friend,Consumer debt,Closed,"Loan from licensed moneylender, disputes amount owed."
+1386,Meena Subramaniam,T7728732C,1974-05-16,Blk 307 Hougang Ave 8 #04-216,87568363,meena.subramaniam@example.com,Unemployed,2600,Facebook,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1387,Pei Shan Sim,T7019138H,,Blk 384 Telok Blangah Cres #12-293,82884378,pei.sim@example.com,Self-employed,"$1,800",,Consumer debt,Closed,"Loan from licensed moneylender, disputes amount owed."
+1388,Suresh Kumar,S0172176G,17-Sep-65,Blk 395 Woodlands Dr 50 #18-029,89140911,suresh.kumar@example.com,Retired,3800,Family Service Centre,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1389,Mei Ling Goh,T8078805F,8/12/1996,Blk 168 Toa Payoh Lor 1 #11-234,88704835,mei.goh@example.com,Student,2600,Walk-in,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1390,Kavitha Menon,T0740016J,,Blk 14 Woodlands Dr 50 #11-211,86507497,kavitha.menon@example.com,Part-time,"$2,500",Community centre,Tenancy,Closed,"Eviction notice, 1 week given. Family with young children."
+1391,Kok Wai Wong,T7675179B,14/2/1998,Blk 28 Dover Rd #03-197,83281313,kok.wong@example.com,Retired,4200,Family Service Centre,Unassigned,Closed,"Immigration question - out of scope, note for records."
+1392,Faizal Osman,S6897631C,3/2/1975,Blk 302 Dover Rd #02-125,89201261,faizal.osman@example.com,Self-employed,~3000,,Tenancy,Closed,"Aircon and water heater broken 3 months, landlord ignores."
+1393,Xin Yi Yeo,T5851067A,1961-05-17,Blk 77 Woodlands Dr 50 #13-214,82313767,xin.yeo@example.com,Self-employed,4200,Family Service Centre,Tenancy,Open,Landlord withholding deposit. Verbal tenancy only.
+1394,Wei Ming Tan,S8783098I,21-Oct-87,Blk 342 Woodlands Dr 50 #09-206,84887658,wei.tan@example.com,Retired,"$2,500",,Employment,Closed,"Unpaid overtime, foreign worker, worried about pass status."
+1395,Faizal Osman,S6284915B,20/9/1970,Blk 84 Woodlands Dr 50 #11-072,86477193,faizal.osman@example.com,Self-employed,"$2,500",Google,Consumer debt,Open,"Guarantor for a friend's loan, friend defaulted."
+1396,Mei Ling Goh,T6413000I,1971-09-18,Blk 123 Ang Mo Kio Ave 3 #02-135,89241906,mei.goh@example.com,Self-employed,"$3,200",Previous client,Employment,Closed,Claims constructive dismissal. Wants to know options.
+1397,Kavitha Menon,T1924564A,19/5/1992,Blk 669 Tampines St 41 #05-042,81646129,kavitha.menon@example.com,Student,3200,Walk-in,Tenancy,Open,"Eviction notice, 1 week given. Family with young children."
+1398,Josephine Fernandez,T0483917C,1977-08-07,Blk 303 Telok Blangah Cres #06-248,89340908,josephine.fernandez@example.com,Student,"$2,500",MP meet-the-people,Employment,Closed,Dismissed after raising a safety complaint. Has messages.
+1399,Mei Ling Goh,S9621437F,4/4/1982,Blk 302 Bedok Nth Rd #17-004,83769439,mei.goh@example.com,Retired,"$3,200",Previous client,Small claims,Open,"Deposit for wedding photography, vendor closed down."
+1400,Anand Rajan,S1609754J,3/9/1993,Blk 439 Bishan St 12 #11-036,88645208,anand.rajan@example.com,Unemployed,3800,Google,Tenancy,Closed,"Rental arrears dispute, landlord changed the lock."
+1401,Aisyah Yusof,T3356696C,11/3/2002,Blk 151 Yishun Ring Rd #19-251,89920255,aisyah.yusof@example.com,Retired,,,Employment,Closed,Claims constructive dismissal. Wants to know options.
+1402,Xin Yi Yeo,T3168526H,1976-01-18,Blk 301 Tampines St 41 #19-027,82620675,xin.yeo@example.com,Student,0,MP meet-the-people,Small claims,Closed,"Online purchase never delivered, seller unreachable."
+1403,Suresh Kumar,T3061326F,1985-02-02,Blk 416 Woodlands Dr 50 #12-291,84022663,suresh.kumar@example.com,Student,4200,Walk-in,Unassigned,Closed,"Immigration question - out of scope, note for records."
+1404,Li Ying Ong,T2187595J,1993-02-20,Blk 601 Tampines St 41 #12-085,82414557,li.ong@example.com,Student,,,Employment,Closed,"Injured at work, no MC paid. Small firm, no HR."
+1405,Jia Hao Lee,S3734883B,17-Dec-55,Blk 170 Toa Payoh Lor 1 #18-038,88129291,jia.lee@example.com,Retired,"$1,800",,Consumer debt,Closed,"Loan from licensed moneylender, disputes amount owed."
+1406,Hui Ling Lim,S8357475B,1970-08-21,Blk 498 Ang Mo Kio Ave 3 #10-043,84922785,hui.lim@example.com,Self-employed,4200,,Unassigned,Open,"Walk-in, complex family matter, referred elsewhere?"
+1407,Jia Hao Lee,S7492689Z,1973-06-13,Blk 102 Bishan St 12 #15-148,84307299,jia.lee@example.com,Student,2600,Walk-in,Tenancy,Open,Landlord withholding deposit. Verbal tenancy only.
+1408,Jia Hao Lee,S7516475F,1965-12-17,Blk 324 Ang Mo Kio Ave 3 #16-282,81277873,jia.lee@example.com,Unemployed,about 2k,Walk-in,Wills and probate,Closed,"Father passed, no will, HDB flat, siblings disagree."
+1409,Yong Sheng Chua,S5550063Z,1-Mar-95,Blk 91 Bishan St 12 #16-044,86177843,yong.chua@example.com,Retired,"$3,200",,Tenancy,Closed,"Eviction notice, 1 week given. Family with young children."
+1410,Farah Karim,S2303256E,8-Feb-03,Blk 177 Dover Rd #09-259,81731370,farah.karim@example.com,Self-employed,n/a,Walk-in,Tenancy,Open,"Aircon and water heater broken 3 months, landlord ignores."
+1411,Marcus DCruz,S3800574I,4/7/1957,Blk 371 Tampines St 41 #10-180,86407065,marcus.dcruz@example.com,Retired,"$3,200",Friend,Neighbour disputes,Closed,"Noise from upstairs unit, nightly, HDB."
+1412,Xin Yi Yeo,S4374847B,1966-05-06,Blk 548 Commonwealth Dr #02-239,81227007,xin.yeo@example.com,Self-employed,2200,Friend,Wills and probate,Closed,"Executor of aunt's estate, unsure of duties."
+1413,Jia Hao Lee,S8533553F,,Blk 503 Woodlands Dr 50 #19-235,82332460,jia.lee@example.com,Unemployed,2200,Community centre,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1414,Aisyah Yusof,T8106851B,1974-10-12,Blk 471 Woodlands Dr 50 #18-061,85785529,aisyah.yusof@example.com,Unemployed,,,Unassigned,Closed,"Immigration question - out of scope, note for records."
+1415,Bernard Tham,T5715090I,1974-02-13,Blk 241 Tampines St 41 #06-148,88549505,bernard.tham@example.com,Retired,2600,Facebook,Consumer debt,Closed,"Credit card debt, harassment calls to workplace."
+1416,Xin Yi Yeo,S2247481E,18/6/1993,Blk 392 Telok Blangah Cres #20-211,86048239,xin.yeo@example.com,Employed,0,Friend,Tenancy,Closed,"Rental arrears dispute, landlord changed the lock."
+1417,Ravi Das,T5673910D,1990-10-22,Blk 78 Ang Mo Kio Ave 3 #16-183,84064192,ravi.das@example.com,Employed,0,,Small claims,Closed,"Car workshop overcharged, poor repair."
+1418,Danial Latiff,S3341741Z,5/3/1967,Blk 385 Toa Payoh Lor 1 #06-119,89601609,danial.latiff@example.com,Part-time,2600,Friend,Employment,Closed,"Injured at work, no MC paid. Small firm, no HR."
+1419,Jia Hao Lee,T0930913E,,Blk 171 Dover Rd #14-227,89619503,jia.lee@example.com,Part-time,3200,Family Service Centre,Employment,Open,Claims constructive dismissal. Wants to know options.
+1420,Bernard Tham,S2055071Z,1987-09-17,Blk 317 Tampines St 41 #20-012,87288350,bernard.tham@example.com,Part-time,,Google,Unassigned,Closed,"Immigration question - out of scope, note for records."
+1421,Aisyah Yusof,T7924514C,1990-04-27,Blk 384 Woodlands Dr 50 #03-052,86412300,aisyah.yusof@example.com,Retired,1800,Friend,Neighbour disputes,Open,"Smoking at corridor, children asthmatic."
+1422,Nurul Ibrahim,S8316338I,,Blk 573 Bishan St 12 #06-155,89437069,nurul.ibrahim@example.com,Self-employed,"$2,500",Walk-in,Neighbour disputes,Closed,"Smoking at corridor, children asthmatic."
+1423,Chin Hock Teo,S6215943J,1987-12-17,Blk 90 Telok Blangah Cres #09-198,83975404,chin.teo@example.com,Unemployed,2600,MP meet-the-people,Unassigned,Open,"Immigration question - out of scope, note for records."
+1424,Iskandar Salleh,S8815325H,18/2/1964,Blk 344 Commonwealth Dr #02-267,84742941,iskandar.salleh@example.com,Employed,1500,Previous client,Consumer debt,Closed,"Loan from licensed moneylender, disputes amount owed."
+1425,Chin Hock Teo,T9491555H,22/11/1989,Blk 677 Bishan St 12 #12-114,85542158,chin.teo@example.com,Unemployed,~3000,Community centre,Consumer debt,Closed,"Bought faulty phone, shop refuses refund."
+1426,Anand Rajan,S8086290I,1971-10-25,Blk 471 Commonwealth Dr #16-074,81788452,anand.rajan@example.com,Student,about 2k,Community centre,Tenancy,Closed,"Rental arrears dispute, landlord changed the lock."
+1427,Aishah Rahman,T2720604D,1982-04-20,Blk 324 Bishan St 12 #04-190,81097631,aishah.rahman@example.com,Retired,n/a,Previous client,Small claims,Closed,"Deposit for wedding photography, vendor closed down."
+1428,Pei Shan Sim,S0720983F,,Blk 428 Ang Mo Kio Ave 3 #13-271,82491914,pei.sim@example.com,Self-employed,3000,,Small claims,Closed,"Deposit for wedding photography, vendor closed down."
+1429,Priya Nair,S4482434I,,Blk 337 Toa Payoh Lor 1 #05-125,88362251,priya.nair@example.com,Unemployed,1800,Previous client,Consumer debt,Closed,"Renovation contractor took deposit, work not done."
+1430,Meena Subramaniam,T6772294G,,Blk 296 Commonwealth Dr #12-084,83115600,meena.subramaniam@example.com,Unemployed,,,Neighbour disputes,Closed,"Noise from upstairs unit, nightly, HDB."
+1431,Suresh Kumar,S7824337Z,7/5/1995,Blk 133 Jurong West St 52 #16-201,88170614,suresh.kumar@example.com,Retired,2600,,Consumer debt,Closed,"Bought faulty phone, shop refuses refund."
+1432,Danial Latiff,S9657018G,,Blk 523 Woodlands Dr 50 #15-027,89791978,danial.latiff@example.com,Retired,"$1,800",Facebook,Tenancy,Closed,"Rental arrears dispute, landlord changed the lock."
+1433,Jia Hao Lee,T9239801I,1958-07-19,Blk 560 Bishan St 12 #10-093,89844795,jia.lee@example.com,Unemployed,,Previous client,Tenancy,Open,"Aircon and water heater broken 3 months, landlord ignores."
+1434,Chin Hock Teo,S2470973D,18-Aug-77,Blk 245 Hougang Ave 8 #09-101,89115883,chin.teo@example.com,Retired,2600,Google,Tenancy,Open,"Aircon and water heater broken 3 months, landlord ignores."
+1435,Vijay Iyer,S4148270D,,Blk 468 Telok Blangah Cres #03-018,89042297,vijay.iyer@example.com,Part-time,4200,Community centre,Consumer debt,Closed,"Credit card debt, harassment calls to workplace."
+1436,Aishah Rahman,S0450581A,1984-07-02,Blk 28 Telok Blangah Cres #10-297,82943177,aishah.rahman@example.com,Retired,4200,Family Service Centre,Wills and probate,Open,"Small estate, bank refuses to release without grant."
+1437,Mei Ling Goh,T9700446J,27-May-93,Blk 43 Telok Blangah Cres #04-095,81745007,mei.goh@example.com,Part-time,1500,Google,Consumer debt,Open,"Credit card debt, harassment calls to workplace."
+1438,Hui Ling Lim,S1172202C,1972-05-26,Blk 576 Tampines St 41 #10-061,82152925,hui.lim@example.com,Unemployed,1500,Google,Consumer debt,Open,"Guarantor for a friend's loan, friend defaulted."
+1439,Vijay Iyer,S6355620Z,1987-03-24,Blk 427 Hougang Ave 8 #06-075,83542759,vijay.iyer@example.com,Student,n/a,Previous client,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1440,Pei Shan Sim,S7064356D,1956-01-03,Blk 80 Woodlands Dr 50 #16-057,86456706,pei.sim@example.com,Employed,,Community centre,Unassigned,Open,"Walk-in, complex family matter, referred elsewhere?"
+1441,Aisyah Yusof,T1636755H,,Blk 335 Commonwealth Dr #05-070,82810937,aisyah.yusof@example.com,Unemployed,,Walk-in,Consumer debt,Closed,"Bought faulty phone, shop refuses refund."
+1442,Vijay Iyer,T0480319J,1985-01-08,Blk 386 Yishun Ring Rd #02-136,84074883,vijay.iyer@example.com,Retired,2200,Friend,Consumer debt,Closed,"Loan from licensed moneylender, disputes amount owed."
+1443,Mei Ling Goh,T2010899J,1962-05-23,Blk 422 Woodlands Dr 50 #07-017,86139285,mei.goh@example.com,Retired,2200,Friend,Consumer debt,Closed,"Guarantor for a friend's loan, friend defaulted."
+1444,Shu Fen Ng,T8943640J,27/7/1986,Blk 467 Tampines St 41 #05-203,87809106,shu.ng@example.com,Unemployed,0,Walk-in,Consumer debt,Open,"Loan from licensed moneylender, disputes amount owed."
+1445,Aishah Rahman,S1727142J,1963-02-21,Blk 19 Woodlands Dr 50 #09-161,86830890,aishah.rahman@example.com,Employed,"$1,800",,Small claims,Closed,"Online purchase never delivered, seller unreachable."
+1446,Faizal Osman,T7916344Z,1960-07-03,Blk 70 Telok Blangah Cres #12-088,86120829,faizal.osman@example.com,Self-employed,1800,,Tenancy,Closed,"Eviction notice, 1 week given. Family with young children."
+1447,Faizal Osman,S1823385D,1966-04-02,Blk 180 Commonwealth Dr #20-170,83714534,faizal.osman@example.com,Unemployed,unknown,Friend,Tenancy,Closed,"Aircon and water heater broken 3 months, landlord ignores."
+1448,Wei Ming Tan,T1980734B,1/11/1999,Blk 576 Toa Payoh Lor 1 #06-254,87998604,wei.tan@example.com,Unemployed,3800,Community centre,Consumer debt,Closed,"Loan from licensed moneylender, disputes amount owed."
+1449,Li Ying Ong,T0339821G,15-Feb-81,Blk 652 Dover Rd #18-011,82932086,li.ong@example.com,Unemployed,"$1,800",Walk-in,Employment,Closed,"Unpaid overtime, foreign worker, worried about pass status."
+1450,Marcus DCruz,S5644730I,1957-01-05,Blk 351 Dover Rd #19-124,87129452,marcus.dcruz@example.com,Employed,0,Community centre,Tenancy,Closed,"Aircon and water heater broken 3 months, landlord ignores."
+1451,Aishah Rahman,S5587121J,,Blk 128 Commonwealth Dr #06-197,84500215,aishah.rahman@example.com,Student,~3000,,Wills and probate,Closed,"Small estate, bank refuses to release without grant."
+1452,Kok Wai Wong,S9435272I,1958-07-26,Blk 259 Clementi Ave 4 #03-232,86495164,kok.wong@example.com,Unemployed,"$3,200",Family Service Centre,Unassigned,Open,Not sure we can help - flag for manager.
+1453,Kavitha Menon,S6581012H,4/3/1957,Blk 142 Jurong West St 52 #19-231,82040151,kavitha.menon@example.com,Part-time,0,,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1454,Hui Ling Lim,S3967692H,1959-06-10,Blk 302 Toa Payoh Lor 1 #03-183,87077741,hui.lim@example.com,Self-employed,~3000,MP meet-the-people,Tenancy,Closed,"Eviction notice, 1 week given. Family with young children."
+1455,Danial Latiff,S7356520E,28-Feb-00,Blk 37 Commonwealth Dr #03-009,86042539,danial.latiff@example.com,Part-time,n/a,Friend,Consumer debt,Open,"Bought faulty phone, shop refuses refund."
+1456,Anand Rajan,S1765725J,2-Sep-94,Blk 37 Ang Mo Kio Ave 3 #02-185,86221159,anand.rajan@example.com,Unemployed,1500,Community centre,Employment,Open,"Injured at work, no MC paid. Small firm, no HR."
+1457,Mei Ling Goh,T0159682I,1996-11-27,Blk 576 Dover Rd #04-214,88874832,mei.goh@example.com,Part-time,2600,Friend,Wills and probate,Open,Needs LPA for elderly mother with dementia.
+1458,Iskandar Salleh,S4446486Z,1997-10-27,Blk 675 Toa Payoh Lor 1 #20-239,88106255,iskandar.salleh@example.com,Student,,Previous client,Consumer debt,Open,"Loan from licensed moneylender, disputes amount owed."
+1459,Faizal Osman,S2766742I,1963-04-04,Blk 72 Jurong West St 52 #20-217,87118798,faizal.osman@example.com,Retired,"$1,800",Community centre,Consumer debt,Closed,"Credit card debt, harassment calls to workplace."
+1460,Pei Shan Sim,S2250989B,1977-09-21,Blk 15 Bishan St 12 #08-236,81611627,pei.sim@example.com,Employed,"$1,800",Community centre,Neighbour disputes,Open,"Noise from upstairs unit, nightly, HDB."
+1461,Chin Hock Teo,S7734560J,8-Mar-79,Blk 238 Tampines St 41 #20-203,83689269,chin.teo@example.com,Retired,3200,Family Service Centre,Employment,Open,"Unpaid overtime, foreign worker, worried about pass status."
+1462,Siti Hassan,S8101289A,1983-06-25,Blk 268 Clementi Ave 4 #10-179,87466665,siti.hassan@example.com,Self-employed,3000,Previous client,Consumer debt,Closed,"Loan from licensed moneylender, disputes amount owed."
+1463,Meena Subramaniam,S9373756I,8/3/1959,Blk 639 Dover Rd #09-102,85115089,meena.subramaniam@example.com,Unemployed,"$3,200",Facebook,Tenancy,Open,"Eviction notice, 1 week given. Family with young children."
+1464,Priya Nair,T4229416J,1993-06-17,Blk 474 Ang Mo Kio Ave 3 #08-131,84153659,priya.nair@example.com,Student,0,Family Service Centre,Employment,Open,"Injured at work, no MC paid. Small firm, no HR."
+1465,Faizal Osman,T9370899E,1989-01-10,Blk 434 Telok Blangah Cres #18-228,87415149,faizal.osman@example.com,Part-time,3800,Google,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1466,Danial Latiff,T0774172I,1963-03-20,Blk 576 Jurong West St 52 #11-068,87754429,danial.latiff@example.com,Student,0,,Consumer debt,Closed,"Renovation contractor took deposit, work not done."
+1467,Li Ying Ong,T0566003I,,Blk 83 Jurong West St 52 #20-027,89559771,li.ong@example.com,Unemployed,4200,,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1468,Deepa Pillai,S2411234J,1986-11-11,Blk 403 Bishan St 12 #20-167,83920725,deepa.pillai@example.com,Student,1500,Friend,Consumer debt,Closed,"Renovation contractor took deposit, work not done."
+1469,Marcus DCruz,T5261424H,25/6/1984,Blk 686 Tampines St 41 #10-050,87627924,marcus.dcruz@example.com,Unemployed,,Google,Tenancy,Open,"Eviction notice, 1 week given. Family with young children."
+1470,Chin Hock Teo,T9644552E,3-Nov-75,Blk 646 Hougang Ave 8 #02-193,84359494,chin.teo@example.com,Student,1800,MP meet-the-people,Consumer debt,Open,"Renovation contractor took deposit, work not done."
+1471,Elaine Pereira,S2200894J,1-Feb-98,Blk 566 Yishun Ring Rd #14-044,87798782,elaine.pereira@example.com,Part-time,about 2k,MP meet-the-people,Small claims,Closed,"Online purchase never delivered, seller unreachable."
+1472,Nurul Ibrahim,T4131702I,1976-07-14,Blk 355 Dover Rd #03-200,85399256,nurul.ibrahim@example.com,Student,0,Google,Employment,Closed,"Unpaid overtime, foreign worker, worried about pass status."
+1473,Faizal Osman,S3475890B,1985-02-09,Blk 219 Bedok Nth Rd #05-063,83566315,faizal.osman@example.com,Unemployed,,Walk-in,Consumer debt,Open,"Bought faulty phone, shop refuses refund."
+1474,Aishah Rahman,T9623925H,12/7/1969,Blk 35 Yishun Ring Rd #09-260,89350577,aishah.rahman@example.com,Retired,1500,MP meet-the-people,Tenancy,Closed,"Sub-tenant, main tenant vanished, agent demanding rent."
+1475,Pei Shan Sim,T5105254E,1979-08-14,Blk 180 Jurong West St 52 #07-288,85069683,pei.sim@example.com,Employed,,Walk-in,Consumer debt,Open,"Guarantor for a friend's loan, friend defaulted."
+1476,Chin Hock Teo,T7920300C,1962-11-01,Blk 453 Clementi Ave 4 #12-112,85542787,chin.teo@example.com,Unemployed,,Friend,Tenancy,Closed,"Aircon and water heater broken 3 months, landlord ignores."
+1477,Yong Sheng Chua,S9460641D,8-Jan-67,Blk 251 Clementi Ave 4 #18-065,84866657,yong.chua@example.com,Part-time,"$3,200",,Employment,Open,Salary unpaid for two months. Employer not responding.
+1478,Li Ying Ong,T7899515B,10/9/1967,Blk 262 Toa Payoh Lor 1 #14-167,88475502,li.ong@example.com,Student,,Previous client,Employment,Closed,"Injured at work, no MC paid. Small firm, no HR."
+1479,Suresh Kumar,S8263058E,1988-04-22,Blk 499 Clementi Ave 4 #14-228,85620893,suresh.kumar@example.com,Part-time,unknown,Walk-in,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1480,Vijay Iyer,S8793875G,1986-05-03,Blk 508 Toa Payoh Lor 1 #12-072,89684295,vijay.iyer@example.com,Student,about 2k,Facebook,Employment,Closed,Claims constructive dismissal. Wants to know options.
+1481,Faizal Osman,S6080537I,1983-10-17,Blk 302 Woodlands Dr 50 #14-179,84591580,faizal.osman@example.com,Unemployed,,,Neighbour disputes,Closed,"Smoking at corridor, children asthmatic."
+1482,Wei Ming Tan,S9881891D,1959-01-08,Blk 172 Yishun Ring Rd #07-070,81835495,wei.tan@example.com,Part-time,1500,,Consumer debt,Closed,"Loan from licensed moneylender, disputes amount owed."
+1483,Mei Ling Goh,T1322573I,25/3/1980,Blk 557 Jurong West St 52 #03-267,85010631,mei.goh@example.com,Student,0,Google,Neighbour disputes,Open,"Smoking at corridor, children asthmatic."
+1484,Kok Wai Wong,S6054463B,27-Nov-98,Blk 417 Yishun Ring Rd #02-181,86476340,kok.wong@example.com,Unemployed,n/a,,Neighbour disputes,Closed,"Shared corridor blocked with items, fire hazard."
+1485,Marcus DCruz,T8745215C,10/1/1999,Blk 288 Woodlands Dr 50 #05-299,89379423,marcus.dcruz@example.com,Employed,~3000,Friend,Wills and probate,Open,"Father passed, no will, HDB flat, siblings disagree."
+1486,Kok Wai Wong,T0655542A,,Blk 527 Dover Rd #08-150,87450762,kok.wong@example.com,Retired,3200,,Neighbour disputes,Open,Dispute over shared wall renovation.
+1487,Hui Ling Lim,T2696464D,2001-10-13,Blk 649 Toa Payoh Lor 1 #14-173,81565019,hui.lim@example.com,Unemployed,"$1,800",Family Service Centre,Neighbour disputes,Closed,"Noise from upstairs unit, nightly, HDB."
+1488,Hui Ling Lim,T9398676B,27/9/1963,Blk 20 Woodlands Dr 50 #19-047,84294345,hui.lim@example.com,Student,2200,,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1489,Zhi Hao Koh,S1940568B,13/3/2003,Blk 534 Dover Rd #19-190,89529760,zhi.koh@example.com,Employed,"$2,500",Previous client,Tenancy,Closed,"Eviction notice, 1 week given. Family with young children."
+1490,Aisyah Yusof,S9064646J,3/6/2001,Blk 87 Bishan St 12 #19-294,81626286,aisyah.yusof@example.com,Employed,3200,MP meet-the-people,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1491,Priya Nair,S8664115E,2003-10-27,Blk 349 Commonwealth Dr #07-128,89086313,priya.nair@example.com,Self-employed,1500,Previous client,Consumer debt,Closed,"Loan from licensed moneylender, disputes amount owed."
+1492,Hui Ling Lim,S6062014A,15/1/1962,Blk 255 Tampines St 41 #13-276,81624596,hui.lim@example.com,Student,3800,Family Service Centre,Neighbour disputes,Open,Dispute over shared wall renovation.
+1493,Pei Shan Sim,S4541928Z,1992-01-12,Blk 265 Woodlands Dr 50 #13-147,88003126,pei.sim@example.com,Part-time,4200,MP meet-the-people,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1494,Faizal Osman,S0074991C,1967-05-11,Blk 74 Telok Blangah Cres #19-115,84587163,faizal.osman@example.com,Student,3000,Previous client,Small claims,Closed,"Deposit for wedding photography, vendor closed down."
+1495,Anand Rajan,T7884043F,1997-12-08,Blk 644 Tampines St 41 #09-122,85830456,anand.rajan@example.com,Retired,2200,,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1496,Danial Latiff,T7223240H,7/8/1970,Blk 40 Toa Payoh Lor 1 #09-075,87829765,danial.latiff@example.com,Retired,"$1,800",Previous client,Tenancy,Closed,"Rental arrears dispute, landlord changed the lock."
+1497,Shu Fen Ng,T6136533H,21/11/1990,Blk 389 Ang Mo Kio Ave 3 #14-201,87148218,shu.ng@example.com,Unemployed,2600,MP meet-the-people,Employment,Open,"Unpaid overtime, foreign worker, worried about pass status."
+1498,Jia Hao Lee,S0511808I,23/5/1998,Blk 452 Hougang Ave 8 #12-058,84151831,jia.lee@example.com,Unemployed,0,Walk-in,Small claims,Closed,"Deposit for wedding photography, vendor closed down."
+1499,Yong Sheng Chua,S0871190A,1974-02-01,Blk 232 Toa Payoh Lor 1 #04-113,85799519,yong.chua@example.com,Unemployed,3800,,Employment,Open,"Unpaid overtime, foreign worker, worried about pass status."
+1500,Xin Yi Yeo,S4214890B,19-Apr-75,Blk 665 Tampines St 41 #06-287,84885718,xin.yeo@example.com,Part-time,3000,MP meet-the-people,Small claims,Closed,"Car workshop overcharged, poor repair."
+1501,Suresh Kumar,S7982099E,,Blk 189 Woodlands Dr 50 #15-277,84028119,suresh.kumar@example.com,Student,"$3,200",,Tenancy,Closed,"Sub-tenant, main tenant vanished, agent demanding rent."
+1502,Bernard Tham,T3152571A,1988-05-10,Blk 201 Telok Blangah Cres #17-219,84915518,bernard.tham@example.com,Employed,about 2k,,Tenancy,Closed,"Sub-tenant, main tenant vanished, agent demanding rent."
+1503,Anand Rajan,T9950976A,,Blk 93 Clementi Ave 4 #08-285,88747547,anand.rajan@example.com,Employed,,Community centre,Wills and probate,Closed,"Executor of aunt's estate, unsure of duties."
+1504,Siti Hassan,S7027102I,13-Oct-02,Blk 574 Commonwealth Dr #13-290,84399700,siti.hassan@example.com,Part-time,3000,,Employment,Closed,Claims constructive dismissal. Wants to know options.
+1505,Anand Rajan,S8281134H,15-Feb-95,Blk 150 Woodlands Dr 50 #20-287,85025413,anand.rajan@example.com,Unemployed,1500,,Consumer debt,Closed,"Loan from licensed moneylender, disputes amount owed."
+1506,Wei Ming Tan,S6555251B,2-Mar-56,Blk 37 Yishun Ring Rd #15-226,86251740,wei.tan@example.com,Part-time,1500,Previous client,Tenancy,Open,"Sub-tenant, main tenant vanished, agent demanding rent."
+1507,Siti Hassan,S2296754B,1-Jun-58,Blk 217 Dover Rd #20-113,89650675,siti.hassan@example.com,Unemployed,,MP meet-the-people,Unassigned,Closed,"Walk-in, complex family matter, referred elsewhere?"
+1508,Shu Fen Ng,T3343553H,2003-05-26,Blk 398 Woodlands Dr 50 #19-242,86784784,shu.ng@example.com,Unemployed,2200,Community centre,Small claims,Open,"Deposit for wedding photography, vendor closed down."
+1509,Hui Ling Lim,S7241984J,13-Jun-79,Blk 453 Yishun Ring Rd #07-255,82762660,hui.lim@example.com,Self-employed,2600,,Consumer debt,Closed,"Loan from licensed moneylender, disputes amount owed."
+1510,Farah Karim,S5936356D,28/11/1977,Blk 290 Commonwealth Dr #11-006,87458764,farah.karim@example.com,Part-time,,,Neighbour disputes,Closed,Dispute over shared wall renovation.
+1511,Nurul Ibrahim,S3405209D,1996-09-07,Blk 601 Ang Mo Kio Ave 3 #09-233,88125497,nurul.ibrahim@example.com,Retired,2600,,Wills and probate,Closed,"Executor of aunt's estate, unsure of duties."
+1512,Li Ying Ong,S9837485B,1987-04-09,Blk 83 Woodlands Dr 50 #09-189,81062864,li.ong@example.com,Part-time,2600,Friend,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1513,Priya Nair,T2585884A,1957-12-10,Blk 531 Clementi Ave 4 #20-191,88006184,priya.nair@example.com,Student,"$2,500",Family Service Centre,Tenancy,Open,"Aircon and water heater broken 3 months, landlord ignores."
+1514,Wei Ming Tan,T7639595C,14/3/2000,Blk 72 Dover Rd #14-285,87738271,wei.tan@example.com,Employed,~3000,MP meet-the-people,Consumer debt,Closed,"Renovation contractor took deposit, work not done."
+1515,Aishah Rahman,T7698815D,1/11/1980,Blk 81 Hougang Ave 8 #05-172,87770773,aishah.rahman@example.com,Unemployed,4200,,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1516,Xin Yi Yeo,T9279295I,12/1/1975,Blk 334 Yishun Ring Rd #16-064,83503686,xin.yeo@example.com,Retired,2200,,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1517,Kok Wai Wong,T5268311I,27-Jun-63,Blk 664 Hougang Ave 8 #06-050,83672385,kok.wong@example.com,Student,1500,Facebook,Consumer debt,Open,"Guarantor for a friend's loan, friend defaulted."
+1518,Priya Nair,S8982568E,1984-11-20,Blk 531 Ang Mo Kio Ave 3 #17-088,87679584,priya.nair@example.com,Retired,unknown,Facebook,Small claims,Closed,"Car workshop overcharged, poor repair."
+1519,Elaine Pereira,S0963626D,1973-08-23,Blk 33 Toa Payoh Lor 1 #06-042,84543834,elaine.pereira@example.com,Employed,~3000,Family Service Centre,Employment,Open,"Unpaid overtime, foreign worker, worried about pass status."
+1520,Danial Latiff,S2502938G,,Blk 640 Ang Mo Kio Ave 3 #06-050,86637417,danial.latiff@example.com,Part-time,about 2k,Family Service Centre,Consumer debt,Closed,"Guarantor for a friend's loan, friend defaulted."
+1521,Kok Wai Wong,T3631544C,23-Nov-63,Blk 513 Hougang Ave 8 #02-248,81964836,kok.wong@example.com,Student,2600,Family Service Centre,Employment,Closed,"Injured at work, no MC paid. Small firm, no HR."
+1522,Shu Fen Ng,S2122699J,,Blk 569 Hougang Ave 8 #11-052,84221009,shu.ng@example.com,Part-time,0,Previous client,Wills and probate,Closed,"Father passed, no will, HDB flat, siblings disagree."
+1523,Mei Ling Goh,S5153951B,3/9/1958,Blk 418 Ang Mo Kio Ave 3 #13-145,84000805,mei.goh@example.com,Student,unknown,Previous client,Consumer debt,Closed,"Renovation contractor took deposit, work not done."
+1524,Pei Shan Sim,T6094747F,5/12/1957,Blk 692 Bishan St 12 #06-123,85094686,pei.sim@example.com,Employed,,MP meet-the-people,Unassigned,Closed,"Immigration question - out of scope, note for records."
+1525,Aishah Rahman,T6410232E,1984-06-21,Blk 334 Ang Mo Kio Ave 3 #19-194,85729241,aishah.rahman@example.com,Retired,2600,Community centre,Consumer debt,Closed,"Credit card debt, harassment calls to workplace."
+1526,Kavitha Menon,S8551451E,10-Oct-60,Blk 44 Jurong West St 52 #08-105,85988989,kavitha.menon@example.com,Self-employed,n/a,Previous client,Neighbour disputes,Closed,"Noise from upstairs unit, nightly, HDB."
+1527,Zhi Hao Koh,T8910802C,27/4/1958,Blk 29 Bedok Nth Rd #04-162,88422543,zhi.koh@example.com,Employed,2600,Family Service Centre,Wills and probate,Closed,"Father passed, no will, HDB flat, siblings disagree."
+1528,Li Ying Ong,S1474285C,,Blk 347 Tampines St 41 #02-061,85200530,li.ong@example.com,Part-time,3000,,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1529,Siti Hassan,S1250344G,,Blk 186 Yishun Ring Rd #02-185,81922151,siti.hassan@example.com,Retired,"$2,500",MP meet-the-people,Wills and probate,Open,"Father passed, no will, HDB flat, siblings disagree."
+1530,Li Ying Ong,S3221216B,4/9/1998,Blk 472 Hougang Ave 8 #16-267,87686873,li.ong@example.com,Unemployed,,Previous client,Unassigned,Closed,Not sure we can help - flag for manager.
+1531,Anand Rajan,T5468089D,9-Jun-66,Blk 185 Toa Payoh Lor 1 #11-135,88532376,anand.rajan@example.com,Retired,2200,Google,Employment,Open,"Unpaid overtime, foreign worker, worried about pass status."
+1532,Aishah Rahman,T9904597J,1994-06-10,Blk 229 Ang Mo Kio Ave 3 #18-151,81734755,aishah.rahman@example.com,Retired,n/a,Family Service Centre,Unassigned,Closed,Not sure we can help - flag for manager.
+1533,Jia Hao Lee,T2518871E,11-Jul-78,Blk 554 Dover Rd #12-075,85213136,jia.lee@example.com,Employed,0,Previous client,Consumer debt,Open,"Renovation contractor took deposit, work not done."
+1534,Josephine Fernandez,T6097238C,19/11/1992,Blk 544 Tampines St 41 #05-105,83832589,josephine.fernandez@example.com,Unemployed,"$3,200",Facebook,Consumer debt,Open,"Renovation contractor took deposit, work not done."
+1535,Kok Wai Wong,T7750899D,1959-11-27,Blk 614 Ang Mo Kio Ave 3 #08-017,82023429,kok.wong@example.com,Part-time,4200,Friend,Employment,Closed,"Unpaid overtime, foreign worker, worried about pass status."
+1536,Siti Hassan,S3633332J,1992-03-24,Blk 147 Clementi Ave 4 #15-290,85913626,siti.hassan@example.com,Part-time,"$1,800",,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1537,Chin Hock Teo,T6505959Z,,Blk 52 Jurong West St 52 #13-111,82432422,chin.teo@example.com,Retired,"$1,800",Facebook,Tenancy,Closed,"Eviction notice, 1 week given. Family with young children."
+1538,Vijay Iyer,S7557162J,1984-07-18,Blk 688 Ang Mo Kio Ave 3 #08-120,82429507,vijay.iyer@example.com,Retired,,,Neighbour disputes,Closed,Dispute over shared wall renovation.
+1539,Zhi Hao Koh,S5090635G,16/8/2000,Blk 181 Toa Payoh Lor 1 #16-236,83507078,zhi.koh@example.com,Retired,1500,Facebook,Employment,Closed,Claims constructive dismissal. Wants to know options.
+1540,Zhi Hao Koh,S2591668D,12-Apr-70,Blk 606 Tampines St 41 #11-119,84988400,zhi.koh@example.com,Self-employed,2200,Family Service Centre,Unassigned,Closed,Not sure we can help - flag for manager.
+1541,Zhi Hao Koh,S6906541J,2001-11-01,Blk 137 Telok Blangah Cres #20-256,82635097,zhi.koh@example.com,Employed,3000,Walk-in,Consumer debt,Closed,"Loan from licensed moneylender, disputes amount owed."
+1542,Pei Shan Sim,T9659257D,1959-03-09,Blk 542 Dover Rd #05-241,88019896,pei.sim@example.com,Retired,about 2k,,Small claims,Closed,"Car workshop overcharged, poor repair."
+1543,Xin Yi Yeo,T5556822D,1994-07-08,Blk 653 Tampines St 41 #06-009,88280210,xin.yeo@example.com,Part-time,2200,Google,Consumer debt,Open,"Credit card debt, harassment calls to workplace."
+1544,Siti Hassan,T5223932I,,Blk 207 Bedok Nth Rd #13-124,83110893,siti.hassan@example.com,Unemployed,,Walk-in,Employment,Open,"Injured at work, no MC paid. Small firm, no HR."
+1545,Ravi Das,T9554112J,20/3/1996,Blk 558 Jurong West St 52 #02-071,89383678,ravi.das@example.com,Retired,,Facebook,Consumer debt,Closed,"Guarantor for a friend's loan, friend defaulted."
+1546,Iskandar Salleh,T3946571Z,,Blk 694 Jurong West St 52 #06-228,83304148,iskandar.salleh@example.com,Employed,,Google,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1547,Meena Subramaniam,S3421939A,1983-08-14,Blk 648 Yishun Ring Rd #20-280,83236395,meena.subramaniam@example.com,Self-employed,,,Neighbour disputes,Closed,"Noise from upstairs unit, nightly, HDB."
+1548,Siti Hassan,T1558560B,6-Jan-86,Blk 493 Bishan St 12 #13-084,87621567,siti.hassan@example.com,Student,"$1,800",Community centre,Small claims,Closed,"Online purchase never delivered, seller unreachable."
+1549,Wei Ming Tan,S2864010Z,21/10/2000,Blk 437 Ang Mo Kio Ave 3 #16-023,89868757,wei.tan@example.com,Retired,3200,Facebook,Consumer debt,Closed,"Loan from licensed moneylender, disputes amount owed."
+1550,Shu Fen Ng,S5557672D,20-Sep-61,Blk 169 Bedok Nth Rd #07-176,84664617,shu.ng@example.com,Retired,"$1,800",,Unassigned,Closed,"Walk-in, complex family matter, referred elsewhere?"
+1551,Kavitha Menon,S2597357A,12-Jul-60,Blk 373 Tampines St 41 #11-175,86304647,kavitha.menon@example.com,Self-employed,1500,,Tenancy,Closed,"Rental arrears dispute, landlord changed the lock."
+1552,Pei Shan Sim,T2139737H,15-Jan-98,Blk 62 Telok Blangah Cres #18-174,86263729,pei.sim@example.com,Self-employed,"$1,800",Community centre,Neighbour disputes,Closed,"Shared corridor blocked with items, fire hazard."
+1553,Faizal Osman,S4260584F,22-Dec-00,Blk 335 Clementi Ave 4 #10-258,89092974,faizal.osman@example.com,Self-employed,,Friend,Tenancy,Open,"Eviction notice, 1 week given. Family with young children."
+1554,Iskandar Salleh,S2354858H,8/1/1978,Blk 695 Telok Blangah Cres #12-090,85620699,iskandar.salleh@example.com,Self-employed,"$1,800",Friend,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1555,Aishah Rahman,T2538734A,1979-11-01,Blk 627 Bishan St 12 #19-208,88812333,aishah.rahman@example.com,Unemployed,"$3,200",Previous client,Employment,Closed,"Injured at work, no MC paid. Small firm, no HR."
+1556,Chin Hock Teo,T1681921D,9-Nov-79,Blk 150 Ang Mo Kio Ave 3 #05-112,88797033,chin.teo@example.com,Student,3800,Family Service Centre,Wills and probate,Closed,"Small estate, bank refuses to release without grant."
+1557,Wei Ming Tan,S5135426D,5/4/1962,Blk 662 Hougang Ave 8 #16-193,87188048,wei.tan@example.com,Self-employed,n/a,MP meet-the-people,Wills and probate,Closed,"Father passed, no will, HDB flat, siblings disagree."
+1558,Farah Karim,S5389277G,1999-03-09,Blk 246 Tampines St 41 #15-122,85839654,farah.karim@example.com,Student,0,Community centre,Neighbour disputes,Closed,"Shared corridor blocked with items, fire hazard."
+1559,Chin Hock Teo,T3503275C,1995-12-03,Blk 344 Dover Rd #13-104,82429362,chin.teo@example.com,Employed,3000,Google,Consumer debt,Closed,"Renovation contractor took deposit, work not done."
+1560,Kavitha Menon,S1943492H,8-Mar-84,Blk 663 Tampines St 41 #10-280,87537829,kavitha.menon@example.com,Retired,2600,,Consumer debt,Open,"Loan from licensed moneylender, disputes amount owed."
+1561,Xin Yi Yeo,T0992431E,6/12/1972,Blk 433 Hougang Ave 8 #17-278,87781513,xin.yeo@example.com,Employed,1800,Previous client,Neighbour disputes,Closed,"Noise from upstairs unit, nightly, HDB."
+1562,Pei Shan Sim,T1858667E,1976-12-06,Blk 233 Clementi Ave 4 #12-109,89666975,pei.sim@example.com,Part-time,unknown,,Wills and probate,Closed,"Father passed, no will, HDB flat, siblings disagree."
+1563,Jia Hao Lee,T1873184I,1974-12-21,Blk 584 Commonwealth Dr #03-190,83834042,jia.lee@example.com,Unemployed,about 2k,Google,Employment,Open,Claims constructive dismissal. Wants to know options.
+1564,Priya Nair,S4328247E,24/1/1997,Blk 235 Telok Blangah Cres #16-173,87211610,priya.nair@example.com,Student,1800,Friend,Neighbour disputes,Open,Dispute over shared wall renovation.
+1565,Li Ying Ong,S1902206G,23/3/1982,Blk 44 Yishun Ring Rd #14-042,87246461,li.ong@example.com,Employed,"$2,500",Facebook,Employment,Open,Dismissed after raising a safety complaint. Has messages.
+1566,Jia Hao Lee,S3984803I,16/4/1980,Blk 238 Telok Blangah Cres #18-206,86823540,jia.lee@example.com,Employed,about 2k,Facebook,Small claims,Closed,"Neighbour's contractor damaged wall, refuses to pay."
+1567,Vijay Iyer,T0497635J,23/7/1968,Blk 490 Hougang Ave 8 #10-151,86588611,vijay.iyer@example.com,Self-employed,~3000,Community centre,Small claims,Closed,"Car workshop overcharged, poor repair."
+1568,Farah Karim,S3751279Z,1961-05-22,Blk 647 Toa Payoh Lor 1 #17-199,88512315,farah.karim@example.com,Student,"$3,200",Walk-in,Tenancy,Closed,"Sub-tenant, main tenant vanished, agent demanding rent."
+1569,Deepa Pillai,T1101654I,20/2/2000,Blk 351 Woodlands Dr 50 #14-281,87907561,deepa.pillai@example.com,Student,"$2,500",Walk-in,Unassigned,Closed,Not sure we can help - flag for manager.
+1570,Meena Subramaniam,S2975235B,26/10/1970,Blk 624 Bedok Nth Rd #05-160,87247715,meena.subramaniam@example.com,Self-employed,0,Google,Employment,Closed,Salary unpaid for two months. Employer not responding.
+1571,Deepa Pillai,S3108021G,1990-02-05,Blk 21 Jurong West St 52 #06-044,89684604,deepa.pillai@example.com,Self-employed,1500,Walk-in,Employment,Open,Claims constructive dismissal. Wants to know options.
+1572,Nurul Ibrahim,T9216949J,10/11/1960,Blk 427 Bedok Nth Rd #02-116,81029763,nurul.ibrahim@example.com,Part-time,"$2,500",,Tenancy,Open,Landlord withholding deposit. Verbal tenancy only.
+1573,Shu Fen Ng,S2814803G,20/8/1979,Blk 208 Woodlands Dr 50 #04-064,87558620,shu.ng@example.com,Employed,1800,Google,Employment,Closed,Dismissed after raising a safety complaint. Has messages.
+1574,Jia Hao Lee,T7925010C,10/9/1999,Blk 272 Ang Mo Kio Ave 3 #17-222,81725497,jia.lee@example.com,Retired,,Previous client,Employment,Closed,"Unpaid overtime, foreign worker, worried about pass status."
+1575,Shu Fen Ng,S4386488F,11/10/1970,Blk 591 Hougang Ave 8 #03-100,85020540,shu.ng@example.com,Student,,Family Service Centre,Unassigned,Closed,"Immigration question - out of scope, note for records."
+1576,Kavitha Menon,S6858927I,1974-05-10,Blk 204 Bedok Nth Rd #07-003,89717856,kavitha.menon@example.com,Self-employed,,Community centre,Neighbour disputes,Open,Dispute over shared wall renovation.
+1577,Kok Wai Wong,S0540843B,1/3/1972,Blk 427 Woodlands Dr 50 #12-055,81059263,kok.wong@example.com,Unemployed,"$1,800",Google,Wills and probate,Closed,"Father passed, no will, HDB flat, siblings disagree."
+1578,Vijay Iyer,S3563718C,1982-12-14,Blk 606 Yishun Ring Rd #02-221,89038032,vijay.iyer@example.com,Self-employed,3800,,Wills and probate,Closed,Needs LPA for elderly mother with dementia.
+1579,Hui Ling Lim,S6093630F,1976-12-16,Blk 429 Dover Rd #02-071,81333932,hui.lim@example.com,Unemployed,about 2k,Community centre,Wills and probate,Closed,Needs LPA for elderly mother with dementia.
+1580,Meena Subramaniam,T2943318G,1988-11-09,Blk 641 Bedok Nth Rd #06-106,82014677,meena.subramaniam@example.com,Retired,1800,Friend,Consumer debt,Open,"Renovation contractor took deposit, work not done."
+1581,Chin Hock Teo,S8094884A,1978-08-25,Blk 652 Dover Rd #04-047,86115874,chin.teo@example.com,Retired,3000,Friend,Tenancy,Closed,"Aircon and water heater broken 3 months, landlord ignores."
+1582,Zhi Hao Koh,T1632034B,1999-05-22,Blk 627 Hougang Ave 8 #19-221,86805742,zhi.koh@example.com,Part-time,2200,Family Service Centre,Tenancy,Open,"Sub-tenant, main tenant vanished, agent demanding rent."
+1583,Chin Hock Teo,S0517427D,6-Oct-65,Blk 443 Ang Mo Kio Ave 3 #20-259,82052362,chin.teo@example.com,Self-employed,1800,Family Service Centre,Tenancy,Closed,"Sub-tenant, main tenant vanished, agent demanding rent."
+1584,Hui Ling Lim,T4426652D,1991-06-16,Blk 285 Dover Rd #05-170,82563725,hui.lim@example.com,Unemployed,2200,,Small claims,Closed,"Neighbour's contractor damaged wall, refuses to pay."
+1585,Jia Hao Lee,S0237025G,1971-01-14,Blk 493 Dover Rd #18-111,89082944,jia.lee@example.com,Retired,,,Tenancy,Open,"Aircon and water heater broken 3 months, landlord ignores."
+1586,Kok Wai Wong,T4758355D,3/6/1960,Blk 401 Ang Mo Kio Ave 3 #12-245,88475294,kok.wong@example.com,Student,,,Wills and probate,Closed,"Father passed, no will, HDB flat, siblings disagree."
+1587,Wei Ming Tan,T4868340E,1968-01-10,Blk 637 Bedok Nth Rd #03-029,84459683,wei.tan@example.com,Employed,"$1,800",Friend,Tenancy,Open,"Aircon and water heater broken 3 months, landlord ignores."
+1588,Marcus DCruz,S4329250J,2-Mar-98,Blk 100 Telok Blangah Cres #03-080,82548415,marcus.dcruz@example.com,Unemployed,n/a,Previous client,Small claims,Closed,"Car workshop overcharged, poor repair."
+1589,Ravi Das,S5358912F,1993-11-26,Blk 31 Yishun Ring Rd #09-063,86624582,ravi.das@example.com,Unemployed,0,Family Service Centre,Tenancy,Closed,"Sub-tenant, main tenant vanished, agent demanding rent."
+1590,Suresh Kumar,S7925239B,24-Oct-57,Blk 75 Commonwealth Dr #15-034,86835322,suresh.kumar@example.com,Part-time,2200,Previous client,Neighbour disputes,Closed,"Smoking at corridor, children asthmatic."
+1591,Anand Rajan,T2893238I,1958-02-23,Blk 486 Toa Payoh Lor 1 #10-270,83087432,anand.rajan@example.com,Self-employed,3000,,Small claims,Closed,"Online purchase never delivered, seller unreachable."
+1592,Li Ying Ong,S8248720I,1970-05-24,Blk 67 Hougang Ave 8 #20-091,89313648,li.ong@example.com,Employed,1500,Friend,Neighbour disputes,Closed,"Shared corridor blocked with items, fire hazard."
+1593,Mei Ling Goh,T0287783B,1976-09-27,Blk 599 Tampines St 41 #08-116,86607131,mei.goh@example.com,Self-employed,3200,Friend,Employment,Closed,"Unpaid overtime, foreign worker, worried about pass status."
+1594,Yong Sheng Chua,T7843053J,1956-11-03,Blk 611 Jurong West St 52 #16-173,86250558,yong.chua@example.com,Self-employed,1800,Family Service Centre,Employment,Open,Claims constructive dismissal. Wants to know options.
+1595,Yong Sheng Chua,T2493748C,13-Oct-91,Blk 151 Dover Rd #05-238,88442374,yong.chua@example.com,Employed,,MP meet-the-people,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1596,Zhi Hao Koh,T3109892F,1/2/1983,Blk 272 Jurong West St 52 #07-113,85392919,zhi.koh@example.com,Unemployed,"$2,500",Walk-in,Small claims,Closed,"Online purchase never delivered, seller unreachable."
+1597,Anand Rajan,T0164299E,,Blk 209 Commonwealth Dr #09-201,84490998,anand.rajan@example.com,Retired,about 2k,Family Service Centre,Small claims,Closed,"Neighbour's contractor damaged wall, refuses to pay."
+1598,Siti Hassan,S8845705E,,Blk 236 Ang Mo Kio Ave 3 #18-197,88250415,siti.hassan@example.com,Self-employed,2200,Google,Employment,Closed,Dismissed after raising a safety complaint. Has messages.
+1599,Deepa Pillai,S4587763A,20/3/1968,Blk 304 Commonwealth Dr #07-203,86075064,deepa.pillai@example.com,Part-time,"$3,200",Previous client,Employment,Closed,"Unpaid overtime, foreign worker, worried about pass status."
+1600,Nurul Ibrahim,S7722706E,18/11/1963,Blk 42 Woodlands Dr 50 #04-066,88524937,nurul.ibrahim@example.com,Self-employed,about 2k,Google,Tenancy,Closed,Landlord withholding deposit. Verbal tenancy only.
+1601,Anand Rajan,T2078023F,,Blk 513 Jurong West St 52 #07-202,84756801,anand.rajan@example.com,Employed,3200,MP meet-the-people,Employment,Open,"Same client as an earlier matter - came back, staff did not notice."
