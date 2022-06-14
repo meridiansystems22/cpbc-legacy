@@ -35,9 +35,6 @@ define('VOLUNTEER_PASS', 'clinic2019');
 // Show all errors on screen. The contractor turned this on "to make problems
 // easier to fix" and it was never turned off. A bad request prints a full
 // path and line number to whoever sent it.
-// google maps key for the address lookup we never finished
-define('MAPS_API_KEY', 'AIzaSyD-FAKE-INVALID-DO-NOT-USE-000000000000');
-
 error_reporting(E_ALL);
 ini_set('display_errors', '1');
 
