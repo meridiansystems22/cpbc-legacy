@@ -1,0 +1,18 @@
+# CPBC Enquiry System - container setup.
+#
+# Run it:
+#   docker compose up -d --build
+# Then open http://localhost:8080/ and sign in.
+#
+# Stop and start fresh (clears anything uploaded or edited since):
+#   docker compose down && docker compose up -d --build
+#
+# The port is bound to localhost only. If you put this on a server, do not
+# open it to the whole internet - keep it behind your own firewall or a login.
+services:
+  legacy:
+    build: .
+    image: cpbc-legacy:local
+    ports:
+      - "127.0.0.1:8080:80"
+    restart: "no"
