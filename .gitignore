@@ -1,0 +1,6 @@
+# uploaded enquiry documents - keep the folder, ignore its contents
+uploads/*
+!uploads/.gitkeep
+
+# local php server noise
+*.log
